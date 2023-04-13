@@ -1,0 +1,2874 @@
+Supplemental Data. Wenke et al. (2011) Plant Cell 10.1105/tpc.111.088682.
+
+Supplemental Dataset 5. Sequence file (FASTA format) containing the aligned SINEs without TSDs, poly(A) tails, poly(T) tails, or poly(GTT) tails from which the dendrogram (Figure 1) was constructed.
+
+>SolS-VI_Nt9 (FI024638; nt 242-466)
+---AACCCTC---------AGGG-----GTTGG-CCTAGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GAATA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TT-------------------------------------------------------
+>SolS-VI_Nt10 (FH584399; nt 227-451)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGCGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GAATA--GTCGGGGC---------------------------------------
+---------------------------TCGAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St6 (AC232765; nt 132291-132515)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+TGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TA-------------------------------------------------------
+>SolS-VI_Nt3 (FH484607; nt 396-172)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+TG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCGAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St7 (AC233407; nt 83146-83370)
+---AACCCTC---------AGGG-----GTTGG-CCTGCTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TAGGTGTA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-GC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St8 (ER842571; nt 592-368)
+---AACCCTC---------AGGG-----GTTGG-CCTACTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CA-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St10 (ER852196; nt 435-211)
+---AACCCTC---------AGGG-----GTTGG-CCTGCTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CTCAC-------------------------TAGGTGCA
+AACAATTTCTAAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St5 (AC233343; nt 53772-53548)
+---AACCCTC---------AGGG-----GTTGG-CCTGCTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TAGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGTACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St3 (AC233495; nt 13743-13967)
+---AACCCTC---------AGGG-----GTTGG-CCTGCTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TAGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St9 (AC232116; nt 97857-97634)
+---AACCCTC---------AGGG------TTGG-CCTGCTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TAGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_Nt2 (ET958688; nt 717-493)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CTCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St1 (AC233568; nt 124509-124285)
+---AACCCTC---------AGGG-----GTTGG-CCTGCTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St2 (AC233486; nt 82020-82244)
+---AACCCTC---------AGGG-----GTTGG-CCTGCTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_St4 (ER836453; nt 256-480)
+---AACCCTC---------AGGG-----GTTGG-CCTGCTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_Nt4 (FH308698; nt 497-272)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGTC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA-A
+TC-------------------------------------------------------
+>SolS-VI_Nt5 (FH036955; nt 319-544)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGCGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA-A
+TC-------------------------------------------------------
+>SolS-VI_Nt1 (FH443480; nt 87-311)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_Nt7 (EB449160; nt 536-311)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TCGGACACCCG-GTGCAAA-A
+TC-------------------------------------------------------
+>SolS-VI_Nt8 (ET700211; nt 526-302)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----CTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCAC-CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TTGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VI_Nt6 (FH064929; nt 87-310)
+---AACCCTC---------AGGG-----GTTGG-CCTGGTGGCAATT------GACTTGA
+GCCTT----GGGG-TTT----GCTCCCT-----TTCAA--GGTCTCAA----------GT
+TCGA----------AA------CCCAC-------------------------TGGGTGCA
+AACAATTTCTGAGGGC-CATCGGACTGGGTAAAA-CCTGAATTA-ACCGTGGTGCACTTG
+CG-----------GGAA----------------------------------ACTCCTTGC
+CGAGGG----------------------------CCTGTGCA--CCCCGG----------
+------GATTA--GTCGGGGC---------------------------------------
+---------------------------TCAAAGAG-AC-TTGGACACCCG-GTGCAAA--
+TC-------------------------------------------------------
+>SolS-VII_Sl7 (DU011866; nt 870-654)
+--CAACCCTGA--------AAGG-----GTAGTTTAAGCTGGGAAAAG------------
+---GGGGGAGGGA--------AAAAGTCC----TTTAA--GGTGGCCA----------GT
+TGGA----------AC------CCCG----------------------------------
+--------------------GTAGGGGCCACGGGAGGCATTACA-AACGGGTCAGGTCT-
+-CCAGGGTCCCATGGAA--------------------------------------CTAGT
+TGTAGT--------------GCACCCGT-CT-TTAAACAACGAAAACCCGAGGGATAC--
+------AGCTA--GTCCGATT---------------------------------------
+------------------------------CGC-A-AA-GCGAT-ACCGGAAAACCAC--
+GAT------------------------------------------------------
+>SolS-VII_Sl4 (AC215449; nt 66840-66632)
+--CAACCCTG---------TGGG-----GTACC-TCCACCGGT-AAAG------------
+---GTTTGAGGAC---------AAAGTA-----CTTCA--GGTTGCCA----------GT
+TCGA----------GC------CTCA----------------------------------
+--------------------ACAGGG-CCACCAGAGGCATTATA-AATCGTT-GCGTCT-
+-TCAGGGCTCCGTGGAA--------------------------------------TTAAT
+CATGGT--------------GAACCTAC-CT-TGAAACAGCGA-GATCTGGTGGGTAA--
+------AGCTA--GTCGGGTT---------------------------------------
+------------------------------CAC-A-TA-GCGATAGTTG-AAAACCAC--
+GGT------------------------------------------------------
+>SolS-VII_Sl5 (CZ968422; nt 75-285)
+--CAACCCTG---------AGGG-----GCAGC-TCCGCTGGT-AAAG------------
+---ACCTAACTAC---------AAAATC-----CTTCC--AGTCTGCG----------GA
+GAGA----------GT------CCCA----------------------------------
+--------------------GTAGGG-CCACTGGAGGCATTACA-AACCGGT-GTGCTTA
+TCCAGGGCCCCATGGAA--------------------------------------CTAAC
+CGTAGT--------------GCATCCAT-CT-TTAAACGGCGG-AACCCGATGGGTAC--
+------AGATA--GTCGGGTT---------------------------------------
+------------------------------CAC-A-AA-ATGACACCCGG-AAACCAC--
+GAC------------------------------------------------------
+>SolS-VII_Sl6 (CZ941395; nt 547-339)
+--CGAGTCA----------AGAG-----GTAACATAGAA-GGT-AAAG------------
+---TCGTGAAGAT---------AAAGTC-----GTTCA--GGTCGCCA----------GT
+TCAA----------GC------CCCA----------------------------------
+--------------------ACAGGT-CCACAGGGGGCATTACA-AACCGATCGCGTCT-
+-CCAGGGCCCAGAGAAA--------------------------------------CTAAC
+TATAGT--------------GCACCCAC-CG-AGAAACAACGG-GACCCGGTGGGTAC--
+------AACTA--GTCAGATT---------------------------------------
+------------------------------CGC-A-AA-GCGCTACCAGG-AAACTAC--
+GGG------------------------------------------------------
+>SolS-VII_Sl2 (DU924763; nt 653-445)
+--CAATTCA----------AGGG-----GTAGC-TTAGCTGGT-AAAG------------
+---TCCTGAGGAT---------AAAGTC-----CTTCA--GGTCGCCA----------GT
+TCAA----------GC------CCCA----------------------------------
+--------------------ACAGGT-CCACTGGAGGCATTACA-AACCGATCGCGTCT-
+-CCAGGGCCCTGTGAAA--------------------------------------CTAAC
+TATGGT--------------GCACCCAC-CT-TGAAACAACGG-GACCCGGTGGGTAC--
+------AACTA--GTCAGATT---------------------------------------
+------------------------------CGC-A-AA-GCGCTACCAGG-AAACTAC--
+GGG------------------------------------------------------
+>SolS-VII_Sl3 (CZ945847; nt 509-300)
+--CAATTCAG---------AGGG-----TAGAT-TAAGCTGGT-AAAT------------
+---TCCTGAGGAT---------AAAGTC-----TTTCA--GGTCGCCA----------TT
+TCAA----------GC------CCGA----------------------------------
+--------------------ACAGGT-CCACTGGAGGCATTACA-AACCGATCGCGTCT-
+-CCAGGGCCCTGTGAAA--------------------------------------CTAAC
+TATGGT--------------GCACCCAC-CT-TGAAACAACGG-GACCCGGTGGGTAC--
+------AACTA--GTCAGATT---------------------------------------
+------------------------------CGC-A-AA-GCGCTGCCAGG-AAACTAC--
+GGG------------------------------------------------------
+>SolS-VII_Nt1 (FH350555; nt 459-250)
+--TAACCCTG---------AGGG-----GTAGC-TCGGCTGGT-AAAG------------
+---GTTTGAGGAC---------AAAGTC-----CTTCA--GGTCGCCA----------GT
+TCGA----------GC------TCCA----------------------------------
+--------------------GTAGGG-CCATTAGAGGCATTACA-AATCGGCCGCGTCT-
+-CCAGGGCCCCGTAGAA--------------------------------------CTAAT
+CGTGGT--------------GCACCCGC-CT-TGAAACAGCGG-GACCCGGTGGGTAC--
+------AGCTA--GTCAGGCT---------------------------------------
+------------------------------CGC-A-AA-GAGACACCCGG-AAACCAT--
+GAC------------------------------------------------------
+>SolS-VII_Nt3 (FH588889; nt 539-738)
+--TAACCCCG--------------------AGC-TCGGGTGGT-AAAG------------
+---GCTTGAGGAC---------AAAGTC-----CTTCA--CGTCGCCA----------GT
+TCGA----------GC------CCCT----------------------------------
+--------------------GCAGGG-CCACTGGAGGCATTACA-AACCGGCCGCGTCT-
+-TCAGGGTCCCATGGAA--------------------------------------CTAAC
+CGT-----------------GCACCCGC-CT-TGAAACAACGG-AACCCGGTGGGTAC--
+------AGCTA--GTCGGGTT---------------------------------------
+------------------------------CGC-A-AA-GCGATGTCCGG-AAAC-AC--
+GGT------------------------------------------------------
+>SolS-VII_Nt2 (ET792135; nt 750-541)
+--GAACCCTG---------AGGG-----GTAGC-TCGGCTGGT-AAAG------------
+---GCTTGAGGAC---------AAAGTC-----CTTCA--GGTCGCCG----------GT
+TCGA----------GC------CCCA----------------------------------
+--------------------GTAGGG-CCACTGGAGGCATTACA-AACCGGCCGCGTCT-
+-CCAGGGTCCCGTAGAA--------------------------------------CTAAC
+CGTGGT--------------GGACCTGC-CT-TGAAACAGCGG-GACCCAATAAGTAC--
+------AGCTA--GTCGGGTT---------------------------------------
+------------------------------CGC-A-AA-GCGACACCCGA-AAACCAC--
+GGC------------------------------------------------------
+>SolS-VII_St3 (ER788760; nt 631-420)
+--TAACCCTG---------AGGG-----GTAGC-TCGGCTGGT-AAAG------------
+---GTCTGAGGACAA-------AAAGTC-----CTTCA--GGTCGCTA----------GT
+TTGA----------GC------CCCA----------------------------------
+--------------------GCAGGG-CCACTGGAGGCATTACA-AACCGGCCGCGTCT-
+-CCAGGGCCCCGTGGAA--------------------------------------CTAAC
+CGTGGT--------------GCACCCGC-CT-TGAAACAGCGG-GACCTGGTGGGTAC--
+------AGCTA--GTCGGGTT---------------------------------------
+------------------------------CGC-A-AA-GCGATACCCGG-AAACCAC--
+GAC------------------------------------------------------
+>SolS-VII_St1 (CK247052; nt 203-413)
+--CAACCCTG---------AGGG-----GTAGC-TCAGCTAGT-AAAG------------
+---GCCTGAGGAC---------AAAGTC-----CTTCA--GGTCGCCA----------GT
+TCGA----------GC------CCCA----------------------------------
+--------------------GAAGGG-CCACTGGAGGCATTACA-AACCGGCCGCGTCT-
+-CCAGGGCCCCGTGGAA--------------------------------------CTAAC
+CGTGGT--------------GCACCCGC-CT-TGAAACAGCGG-GACCCGGTGGGTAC--
+------AGCTA--GTCGGGTT---------------------------------------
+------------------------------CGCTA-AA-GCGACACCCGG-AAACCAC--
+GGT------------------------------------------------------
+>SolS-VII_St2 (CK250702; nt 349-141)
+--TAACCCTG---------AGGG-----GTAGC-TCAGCTGGT-AAAG------------
+---GCCTG-GGAC---------AAAGTC-----CTTCA--GGTCGCCG----------GT
+TCGA----------GC------CCCA----------------------------------
+--------------------GCAGGG-CCACTGGAGGCATTACA-AACCGGCCGCGTCT-
+-CCAGGGCCCCGTGGAA--------------------------------------CTAAC
+CGTGGT--------------GGACCCGC-CT-TGAAACAGCGG-GACCCGGTGGGTAC--
+------AGCTA--GTCGGGTT---------------------------------------
+------------------------------CGC-A-AA-GCGACGCCCGG-AAACCAC--
+GGT------------------------------------------------------
+>SolS-VII_Sl8 (AC215492; nt 40287-40090)
+--TAACCCTG---------AGGG-----GTAGC-TTGGCTGGT-AAAG------------
+---GCTTGAGGAC---------AAAGTT-----CTTCA--GGTTGTCA----------AT
+TCGA----------GC------ACCA----------------------------------
+--------------------GCAGGG-CCATTGGAGGTATTACA-AATCGGTTGTGTTT-
+-CCAGGGCCCCGTAAAA--------------------------------------CTAA-
+-------------------------CGC-CT-TGAAACAGCGG-AATTCGATGGATAC--
+------AGCTA--GTCGGGTT---------------------------------------
+------------------------------CGC-A-AT-GCGACACCCGA-AAATCAT--
+GGC------------------------------------------------------
+>SolS-VII_Sl1 (EF647607; nt 71374-71170)
+--TAATCCTG---------AGGG-----GTAGC-TCGGCTGGT-AAAG------------
+---GCTTGAGGAC---------AAAGTC-----CTTCA--GGTCACCA----------CT
+TCGA----------GC------CCCA----------------------------------
+--------------------GCAAGG-CCACTGGAGGCATTACA-AATCGGTTGCGTTT-
+-CCATGACCCCGTGGAA--------------------------------------CTAAC
+TGTGGT--------------ACACCCGC-TT-TGAAACAGCAG-AATTCGGTGAATAC--
+------AGCTA--GTCGGATT---------------------------------------
+------------------------------CAC-A-AA-GCGACACCCGA-AAA------
+-TC------------------------------------------------------
+>PinS-I_Pt2 (DR177748; nt 169-392)
+-GTCTA-CT----------AGGT-----CTAGC-CCATGCAGTTGAG-------------
+--A-GAC-AGAGT-GTT----ATCCTCC-----CCA-------CCTAG----------GT
+TCAA----------TT------CTCAC---------------------------------
+----------AAGTGA-CATGGTGAGCTCTTAGT-GGGTATATT-ATGGTAACA------
+----------------------------------------------GCCTTGAGCCCTGT
+GTTTAT-----------AAAGCCTCAA------GGTTTTGAAG-ATTCCG----------
+------ATTTA--CCCTGAGT---------------------------------------
+-ATCATCATCGAA--ATGAGGGGAAGTGCCCAAGG-GG-TTT-CCCTAAG-ATGTGTA--
+TTTC-----------------------------------------------------
+>PinS-I_Pt1 (CZ894959; nt 564-318)
+-GTAAA-TT----------GTGT-----GTAGC-TCAAGTGGTTGTG-------------
+--AGGAA-AAA-T-GTT----ATTCTCC-----CCA-------CCCAG----------AT
+TCAA----------ACTTCAAACCCAC---------------------------------
+---------TTTGTGA-CACATTT-TCTCGTAGT-GAGCCAATT-GCTGATGATCTATAT
+ATG-------------------------------------------ATCTATTTATAAGT
+TGTTGA---------------CCTGAAT-TT--GGCCCTGAAG-AACCCTAG--------
+------CTTTA--CCCCGGGT----------------------------------ACTAT
+CCTGATCTTCTAA--ATGAGGTGAAGTGCCCAAGA-GG-TTTCCCTTGGG-ATATATT--
+ACAT-----------------------------------------------------
+>PinS-I_Pg6 (CO251029; nt 165-401)
+-GTCAA-TT----------GGGT-----GTAGT-TTGAGTGGTTGTG-------------
+--AGGAA-AAGTT-GTT----ACCCTTC-----CCA-------CCCAG----------GT
+TCAA----------AT------CCCA----------------------------------
+--------TTTTGTGA-CATGTTT-GTTCTTAGT-GAGCCAATT-GTTAATGAAATATAT
+ATG-------------------------------------------ATCTAGTCATGAGT
+TGTTGA---------------CCTGGCC-TT-GTGCCCTGAAG-AATCTAGG--------
+------GTTTA--CCTTAGGT---------------------------------------
+-ACCACCCTCGAA--ATGAGGGGAAATGCTCAGGA-GG-TTTACCCCAGG-ATATATT--
+ACTT-----------------------------------------------------
+>PinS-I_Pg7 (DR591887; nt 63-297)
+-TTCAA-TT----------GGGT-----GTAAC-TCGAGTGGTTGTT-------------
+--AGGAA-AAGCT-GTT----ACTCTCC-----CTA-------CCTGG----------GT
+TCAA----------AT------CCCAC---------------------------------
+---------TTTGTGA-CATGTTT-GCTCTTAGT-GAGCCGATT-GTTGATGAGCTATAT
+ATG-------------------------------------------ATCTATGCATGAGT
+TGTTGA---------------TCTGGCC-TT-GTTCCCTGAAG-AATCTAGG--------
+------GTTTA--CCCTGGGT---------------------------------------
+-ACCATCCTCGGA--ATGAGGGGAAGTGCCCAGTA-GG-TTT--CCACTG-GGATATT--
+ACTT-----------------------------------------------------
+>PinS-I_Pg2 (DR468572; nt 441-665)
+-GTCAG-TT----------GGGT-----CTAGC-TCGTGTGGTTGTG-------------
+---GGA-TGGGGT-GTT----ATCCTCC-----CCA-------CCTAG----------GT
+TCTA----------TT------CCCA----------------------------------
+---------TTAATGA-TATGTTGAGCTCATATT-GAGTATAGT-GTTGTAATG------
+----------------------------------------------GCTTCGAGCTCTGC
+TGTTGA---------------CCTGGCA-TT-TCCCAATGAAG-AATCTAGG--------
+------GTTTA--CCCTGGGT---------------------------------------
+-ACCATCCTCGAA--ATGAGGGGAAGTACCT-GGG-GG-TTTT-CCCGGG-AGTTGTT--
+ATCT-----------------------------------------------------
+>PinS-I_Ps1 (DR544849; nt 256-31)
+-GTCAA-TT----------GTGT-----CTAGC-TCGTGTGGTTGTG-------------
+---GGA-TGGAGT-GTT----ATCTTCC-----CTA-------CCTAG----------GT
+TCTA----------TT------CCC-----------------------------------
+--------GTTAATGA-CATATTGAGCTCATAAC-GAGTATATT-GTTGTAACG------
+----------------------------------------------GCTTCGAGCCTTGT
+TGTTGA---------------CCTGGCA-TT-GTCCATTGAAG-AATCTAGC--------
+------GTTTA--CCTTGGAT---------------------------------------
+-ACCATCCTCGAA--ATGAGGGGAAGTACCT-GGG-GG-TTTT-CCCCGGGCATTGTT--
+ACCT-----------------------------------------------------
+>PinS-I_Pg5 (GE474767; nt 234-459)
+-GTCAA-TT----------GGGT-----TTAGC-TCGGGTGGTTGGG-------------
+--AGGAAT-GATT-GTC----ATACTCC-----CCA-------CCCAG----------GT
+TCAA----------TT------CCT-----------------------------------
+--------GTATGTGA-CATGTTGAGCTCTAAAT-GAGTATATT-GTTGTAATG------
+----------------------------------------------GATTTGAGCCCTGT
+TGTTGA----------------TTGGCC-TT-TTGCCATGAAT-ATTCTAGG--------
+------GTTTA--CCCTTGGT---------------------------------------
+-ACTGTCCTTGAA--ATGAGGGGAAGTACTTTGGG-GG-TTTTTCCCGAG-CA-TGTA--
+ACTT-----------------------------------------------------
+>PinS-I_Pg1 (EX310819; nt 209-435)
+-GTCAA-TC----------GGGT-----TTAGC-TCGAGTGGTTGGG-------------
+--ATGAAT-GATT-GGT----ATTCTCC-----CCA-------CTCAC----------AT
+TCAA----------TT------CTCAC---------------------------------
+----------AAGTGA-CATGTTGAACTCTTAAC-GAGTATATT-ATTGTAATG------
+----------------------------------------------GCTTCGAACCTTGT
+TATTGA----------------CTGGCC-TT-CTGCTCTGAAA-ATTCTAAA--------
+------ATTTA--CCCTGGGT---------------------------------------
+-ATCATCCTCGAA--ATGAGGGAAAGTACTTGCAA-GG-TTTTCCCCGAC-CTTTTTA--
+ACCT-----------------------------------------------------
+>PinS-I_Pg3 (CO473133; nt 250-470)
+-CTCAA-TT----------GGGT------TAGC-TTGGGTGGTTGGA-------------
+--AGGAGT-GACT-GTC----ATCCTCC-----CCA-------CCCAG----------GC
+TCAA----------TT------CCCAC---------------------------------
+----------AAGCGA-CTTGTTGAGCTCTTGAA-GAGTATTTC-ATTGTAATG------
+----------------------------------------------GCGTTGAGCCTCAT
+TGTTGA----------------CCGGCC-TT-GTGCCCTGAAG-ATTCTGGG--------
+------ATTTA--CCCTGGGT---------------------------------------
+-ACCATCCTCAAA--ATGA---GAAGTACTA-GGG-GA-TTTT-CCCAGG-CTTTGTA--
+ACCT-----------------------------------------------------
+>PinS-I_Pg4 (EX439011; nt 288-64)
+-TCAAAATT-----------GAT----AT-CAC-TTGGGTGGTTGGG-------------
+--AGGATT-GATT-GTT----ATCCTCC-----TCA-------CCTAG----------GT
+TTAA----------TT------CCCAC---------------------------------
+----------AAGTGG-CATGTTGAGCTCTTAAC-GTGTATATT-ATTGTAATT------
+----------------------------------------------GCTTCAAGCCTTGT
+TGTTGA----------------CCGGCC-TT-GTGCCCTGAAG-ATTATAGG--------
+------GTTTA--GCCTGGGT---------------------------------------
+--AAATCCTTGAA--ATGAGGGGAAGTACTT-GGG-GG-TTTTCCCCAGG-GTTTGTA--
+ACCT-----------------------------------------------------
+>NymS-I_Na9 (DT575900; nt 436-304)
+----ACCAAC---------GGGT---GCTCCAC-GTGGTTGGTAGGA-------------
+---GCTGTCAGTG-CAC----GTCTCCTTGTAGTGGGA--CGGTGCAG----------GT
+TCAA----------AA------CCCA----------------------------------
+------------------------------------------------------------
+---------------------------------------------------GTGGTAT--
+-GTTGAATAAT-------------------------------------------------
+------AAATG--GTGAGGGT---------------------------------------
+-----------------------------------CTG-CCTAACCCCAG-CT-GCCT--
+TTC------------------------------------------------------
+>NymS-I_Na10 (CV000502; nt 287-154)
+----TCCAAC---------GGGG---GCTCTAC-GTGATTGGTAGGA-------------
+---GCTGTCAGTG-CAC----GTCTCCTTGTGGTGGGA--CGTTTCAG----------GT
+TCAA----------AC------CCCA----------------------------------
+------------------------------------------------------------
+---------------------------------------------------GTGATAC--
+-GTTGAATAGT-------------------------------------------------
+------AACTG--GTGGGG-T---------------------------------------
+-----------------------------------CTG-CCTAACCCCAG-CTTGCCTT-
+TTC------------------------------------------------------
+>NymS-I_Na7 (ES733788; nt 521-647)
+----ACCAAC------------G------CCGC-TTGTTTGGTAGGA-------------
+---GCAGCCAGTG-CAAG---CTAACCTTGTGTTGGGA--TGTTGCAG----------GT
+TCAA----------AA------CTCA----------------------------------
+------------------------------------------------------------
+---------------------------------------------------ATGGTAT--
+GGTTGTAT----------------------------------------------------
+------AATTG--GTAGGGGT---------------------------------------
+-----------------------------------CTG-CCTAACCCCAG-CTTACCT--
+TTA------------------------------------------------------
+>NymS-I_Na1 (ES732816; nt 214-344)
+----ACCAAC---------GGGG----CTCCGC-TTGTTTGGTGGGA-------------
+---GCAGCTAGTG-CTC----GTTACCTTGTGTCAGGA--CGTTGCAG----------GT
+TCAA----------AA------CCCA----------------------------------
+------------------------------------------------------------
+---------------------------------------------------ATGGTATA-
+-GTTGTAT----------------------------------------------------
+------AACTG--GTAGGGGT---------------------------------------
+-----------------------------------TTG-CCTAACCCCAG-CTTGCCT--
+TTC------------------------------------------------------
+>NymS-I_Na3 (DT601461; nt 254-383)
+----ACCAAC---------GGGG----CTCCGC-TTGTCTGCTAGGA-------------
+---G-AGCTAGTG-CAC----GTCACCTTGTGTTGGGA--CGTTGCAA----------GT
+TTGA----------AT------CCCA----------------------------------
+------------------------------------------------------------
+---------------------------------------------------ATGGTGT--
+CATTGTAT----------------------------------------------------
+------AACTG--GTAGGTGT---------------------------------------
+-----------------------------------TAG-CCTAACCCCAG-CTTGCCT--
+TTC------------------------------------------------------
+>NymS-I_Na8 (FD384234; nt 43-177)
+----ACCAAC---------GGGG----CTCCGC-TTGTCTGGCAGGA-------------
+---GCAGTTAGTG-TAC----GTCACCTTGTGTTTTGA--CGTTGCAA----------GT
+TCGA----------AT------CCCA----------------------------------
+------------------------------------------------------------
+--------------------------------------------------AATGGTAT--
+GGTTGTAT----------------------------------------------------
+------AACTG--TTAAGGGGGT-------------------------------------
+-----------------------------------CTG-CCTAACCCCAG-CTTTCTCT-
+GTC------------------------------------------------------
+>NymS-I_Na2 (FD382735; nt 285-152)
+----ACCAAT---------GGGG----CTCTGC-TTGTCTGGCAGGA-------------
+---GCAGTTAGTG-CAC----ATCACCTTGTGTTGGGA--CGTTGCAA----------GT
+TCAA----------AT------CCCA----------------------------------
+------------------------------------------------------------
+---------------------------------------------------ATGGTATAC
+GGTTGTAT----------------------------------------------------
+------AACTG--GTAGGGGT---------------------------------------
+-----------------------------------CTG-CCTAACCCCAG-TTTTCTCT-
+GTC------------------------------------------------------
+>NymS-I_Na6 (DT575874; nt 200-331)
+----ACCAGCA--------GGGG----CTCTGC-TTGTCTGGCAGGA-------------
+---GCAGTTAGTG-CAC----GTCACCTTGTGTTGGGA--CATTGCAA----------GT
+TCGA----------AC------CCCA----------------------------------
+------------------------------------------------------------
+----------------------------------------------------TGGTAT--
+GGTTGTAT----------------------------------------------------
+------AACTG--GTAGGGGT---------------------------------------
+-----------------------------------CTG-CCTAACCCCAG-CTTTCTCT-
+GTC------------------------------------------------------
+>NymS-I_Na5 (CD474882; nt 165-39)
+----ACCAAG---------GGGG----CTCTCC-TTCTCTAGTAGGA-------------
+---GAAGCTAGTG-CAC----ATCACCGTGTGTTGGGA---GTTGCAG----------GT
+TCAA----------AA------CCCA----------------------------------
+------------------------------------------------------------
+---------------------------------------------------ATGGTATA-
+----GTGT----------------------------------------------------
+------AACTG--GTAGGGGT---------------------------------------
+-----------------------------------CTG-CCTAACCCCAG-CTTGCCT--
+TTC------------------------------------------------------
+>NymS-I_Na4 (FD384506; nt 195-320)
+----ACCAGC------------------TCACC-TTGTCTGGTAGGA-------------
+---GCAGCTAGTG-CAC----CTCATTTTGTGTTGGNA--CGTTGCAG----------TT
+TCAA----------AA------CCCA----------------------------------
+------------------------------------------------------------
+---------------------------------------------------TTGGTATA-
+-GTTGTAT----------------------------------------------------
+------AACTG--GTAGGGGT---------------------------------------
+-----------------------------------CTG-CCTAACCCCAG-CTTGCCT--
+TTA------------------------------------------------------
+>SolS-IIIa_Sl6 (AC211030; nt 48106-48336)
+---ATCCTTT---------GGGG-------TGG-CCCAGTGGTTTGA-------------
+-------GTTTGT-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGAGTTTGCCT-TCTGGGTC-GAGCTCGTCGCACCAG
+GTTTGT--CTAGTGCGT-------------------------GTTACCTCTCAT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGG-----------
+-----TTTTTA--CCCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCTGT-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_Sl3 (AC211074; nt 16173-15943)
+---ACCCTTC---------GGGG-------TGA-CCCAGTTGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGTAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCACACCAG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGC--------------TTGCGAGC-TA-TTGCATGGGAG-CGGTGG----------
+------TGTTA--CCCTGTGC---------------------------------------
+---ACACCC---------------------AAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_Sl7 (AC215400; nt 41704-41474)
+---ACCCTTC---------AGGG-------TGG-CCCAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------AT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCGCACCAA
+GCTTAC--CTTGTGCAG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGG-----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC--------------------AAAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCGT------------------------------------------------
+>SolS-IIIa_Sl5 (CU326372; nt 9597-9827)
+---AACCTTC---------GGGG-------TGG-TCCAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGTGA-AAGCAAGGGATTTGCCT-TCTGGGTC-GAGCTCGTCGCACTAG
+GCTTGC--TTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGG-----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC--------------------AAAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCGT------------------------------------------------
+>SolS-IIIa_Sl4 (DU096038; nt 270-499)
+---ACCCTTC---------GGGG-------TGT-CCCAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGAGTTTACCT-TCTGAGTC-GAGTTCGTCGCACCAG
+GCTTGC--CTAGTGGGG--------------------------TTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGGG----------
+------TTTTA--CCCTGTAC---------------------------------------
+---GCACCC---------------------AAAGG----GCAGCGGCTGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_Sl8 (CU928192; nt 35792-35562)
+---ACCCTTC---------GGGG-------TGG-ACCAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCACACCAG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCTT-----A
+TGTGGT--------------TTGCAAGC-TA-TTGTATAGGAG-CGGGG-----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC--------------------AAAAGG----GTAGCGGCTCC-GGGTTT--C
+CCTTGTCTT------------------------------------------------
+>SolS-IIIa_Sl2 (AF275345; nt 116952-116721)
+---ACCCTTC---------GGGG------GTGG-CCTAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAAGGGTGTGCCT-TCTGGGTC-GAGCTCGTCGCACCAG
+GCTTGC--CTAGTGCGG-------------------------GTTATCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-TGGGGG----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCTGC-GGGTTT--C
+CTTTGTCGT------------------------------------------------
+>SolS-IIIa_Sl9 (AP011515; nt 16391-16621)
+---ACCCTTA---------GGGG-------TGG-CCCAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCAA-AAGCAAGGGGTTTGCCT-TTTGGGTC-GAGCTCGTCGCACTAG
+GCTTGC--CTGGTGCGG-------------------------GTTATCTCTCCT-----A
+TGTGGT--------------TTACGAGC-TA-TTGCATAGGAG-CGGGG-----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC--------------------AAAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCGT------------------------------------------------
+>SolS-IIIa_Sl10 (AP010928; nt 9899-9669)
+---ACCCTTA---------GGGG-------TGG-CCCAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCAA-AAGCAAGGGGTTTGCCT-TTTGGGTC-GAGCTCGTCGCACTAG
+GCTTGC--CTGGTGCGG-------------------------GTTATCTCTCCT-----A
+TGTGGT--------------TTACGAGC-TA-TTGCATAGGAG-CGGGG-----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC--------------------AAAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCGT------------------------------------------------
+>SolS-IIIa_St6 (AC233609; nt 3315-3545)
+---ACCCTTC---------GGGG-------TGG-CCCTGTGGTTTGG-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TCTGAATC-GAGCTCGTCGCACCGG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTCGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGGG----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_St9 (CK273375; nt 250-480)
+---ACCCTTC---------GGGG-------TGG-CCCAGTGGTTTGG-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-GAGCAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCGCACCGG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGGG----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCTCCC---------------------AAAAG----GTAGCAGCTGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_St10 (AC234697; nt 37164-36935)
+---ACCCTTC---------GGGG-------TGG-CCCAGTGGTTTGG-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTG-CT-TCTGGGCC-GAGCTAGTCGCACCGG
+GCTTGC--CTAGTGTGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGGG----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_St8 (AC231673; nt 10235-10005)
+---ATCCTTC---------GGGG-------TGG-CCCAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCGCACCAG
+GCTTGC--CTAGTGCGG-------------------------TTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGGG----------
+------TTTTA--CTCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_St2 (AC236731; nt 60747-60977)
+---ACCCTTC---------GGGG-------TGG-CCCAGTGGTTTGG-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGATTTGCCT-TCTGGGTC-GAGCTCGTCGCACCGG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGGC----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCAGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_St5 (AC232095; nt 94099-93869)
+---ACCCTTC---------GGGG-------TGG-CCCAGTGGTTTGG-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCGCACCAG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGAG----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACTC---------------------AAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGGCAT------------------------------------------------
+>SolS-IIIa_St4 (AC206932; nt 132989-133218)
+---ACCCTTC---------GGGG-------TGG-CCCAGTGGTTTGG-------------
+-------GCTTGA-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCGCACCGG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGGG----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCA-CC---------------------AAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_St1 (ER828845; nt 26-256)
+---ACCCTTC---------GGGG-------TGG-CCCAGTGGTTTGG-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCGCACCAG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGGG----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_St3 (AC212552; nt 74371-74141)
+---ACCCTTC---------GGGG-------TGG-CCCAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TTTGGGTC-GAGCTCGTCGCACCAG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGGG----------
+------TTTTA--CCCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCTGC-GGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_St7 (AC231998; nt 96885-97115)
+---ACCCTTC---------GGGG-------TGG-CCCAGTGGTTTGG-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCAA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCGTACTGG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGG-----------
+-----TTTTTA--CCCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCTGC-AGGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIa_Sl1 (DU060509; nt 126-356)
+---ACCCTTC---------GGGG-------TGG-CCCAGTGGTTTGA-------------
+-------GCTTGG-GAC----TTCCATG-----TTGGA--GGTCTCAA----------GT
+TCGA----------AA------CCCCT---------------------------------
+-------TGCCAGCGA-AAGCAAGGGGTTTGCCT-TCTGGGTC-GAGCTCGTCGAACAAG
+GCTTGC--CTAGTGCGG-------------------------GTTACCTCTCCT-----A
+TGTGGT--------------TTGCGAGC-TA-TTGCATAGGAG-CGGGG-----------
+-----TTTTTA--CCCTGTGC---------------------------------------
+---GCACCC---------------------AAAGG----GTAGCGGCTGC-ATGTTT--C
+CCTTGTCAT------------------------------------------------
+>SolS-IIIb_Nt3 (FH587353; nt 136-379)
+--TATCCCTAC---------GGA------TGGC-CCAGTTGGTTTGG-------------
+--------AGGGC-GGT----CATCCGT-----ACAAA--TAACCTGG----------GA
+TCTA----------TC-----CCTCCT---------------------------------
+--------------------CAAT------ATCT-TCTGGGTC-GAGTTTG-CGCACACG
+GCTTGC--CTAGTGCGA-------------------------TTTACATTTCCA-----A
+TATGAT--------------TTGCAGGC-TA-TTACATAGCAG-GGAG------------
+-------TTTA--CCCAGTAA-------------------------------GCATAAAG
+TGCTTACCC--GAAGGACAGAGACTATGACAAAGA-CT-GTAACAGCTG--CTGATTT--
+TCTGGGGTT-TA---------------------------------------------
+>SolS-IIIb_Nt7 (FH214605; nt 170-412)
+--TGTCCCAA--------AGGGA------CGGT-CCAGTTAGTTTGG-------------
+--------AGGG--TGT----TGTTCAC-----ACGGG--CGATGGGA----------GA
+TCGA----------TC------C-CCT---------------------------------
+--------------------TAAT------GTCT-TCTGGGTTTGAGCTTGTTGTACGTG
+GCTTGC--CTAGTACGG-------------------------TTTACATTCCTT-----A
+TGTGAT--------------TTGCAGGT-TA-TTACACAATGG-GGG-------------
+-------TTTA--CCCAGTGC-------------------------------ACATAAAG
+TGCTCACCC--GAAAGACAGAGGCTGTGACAGAGA-CC-GTAGCGGCGGC-GAATTTT--
+CCTGG-GTT-CC---------------------------------------------
+>SolS-IIIb_Nt9 (FH074370; nt 503-269)
+--ATTCCTTC---------AGGA------TGGT-CTAGTTGGTTTGG-------------
+--------AGGG---AT----TATCCAT-----ACTGA--TGACCTGA----------GA
+TTGA----------TC-----TATTCT---------------------------------
+--------------------CAAT------ATCT-TCTGGGTCTGAGCCTGTCGCAGATG
+GTTTGC--CTAGTGCGA-------------------------TTTATATTCCTT-----G
+TGTGAT--------------TTACAGGT-TA-TTACACAGTGA-GAG-------------
+--------TTA--CCCGGTAT-------------------------------GCACAAAG
+TGCTCACCT--GAAAAGCAGAAGCTATAA----------ATAGCGTCTGC-GAGTTTT--
+CCTAAAATT-CC---------------------------------------------
+>SolS-IIIb_Nt10 (FH670733; nt 121-350)
+--GGTCCCGA--------AGGGA------CGGC-CCAGTTGGTTTGG-------------
+--------AG----GGT----GTTGTCC-----ACGGG--CGACGGGA----------GT
+TCGA----------TC------CTCTT---------------------------------
+--------------------CAAT------GCCT-TTTGGGTCTAAGTATGTCGCACAGG
+ACTTGC--GTAGTGCGG-------------------------CTTATATCCCCT------
+TAT-AT--------------TTGCAAGC-TA-TTATACAGTGG-GGGG------------
+-------TTTA--CCCAGTGC-------------------------------GCACAAAG
+CGCTCACCC--GAAA------------AGCAAAGG-TT-GTAGCGGTTGC-GAGTTTT--
+TCTGGGATT-CC---------------------------------------------
+>SolS-IIIb_Sl2 (AC171734; nt 64112-63864)
+--AGTCCTTC---------GAGA------TGAC-TCAGTAGGTTTGG-------------
+--------AGGGT-AGT----TATCCAC-----ACGGA--TGATTCAG----------GA
+TCGA----------TT-----CCCCCT---------------------------------
+--------------------CAAT------GTCT-TCTGAGTC-AAGCATGTCATATAGG
+ACTGATTGCTAGTGCAG-------------------------TTTACATCCCTT-----A
+TGTGGT--------------TTACAAGC-TA-TTACATAGTGA-GGCG------------
+-------TTTA--TCTCGTGT-------------------------------GCATAAAG
+TGCTCACCC-TGAAAGGCAAAGATTGTGGCAGAGG-TG-GTAGTGATTGC-GGCTTAT--
+CCTGTGATT-TA---------------------------------------------
+>SolS-IIIb_Sl3 (AC225019; nt 25097-25340)
+--TGTTCTTC---------GGGA------TAAC-TCGGTTGGTTTGG-------------
+--------AGGGT-GGT----TATCCAC-----ACAGA--TGATCAGA----------GA
+TTGA----------TC-----TCC-CT---------------------------------
+--------------------CAAT------GCCT-TCTGAATC-GAGCCTGTCGCATAGG
+ATTTGG--CCTATGCAG-------------------------TTTACATTTTCT-----G
+TGTGGT--------------TTGCAGACCTA-TTATACAGTGG-GG--------------
+-------TTTG--ACCAGTGC-----------------GCACAAAATGCTCACCACAA--
+TCCTCACCC-CGAAG------------GACAGAGG-TT-GTAGCATTTGT-GGGTTAT--
+TCTAT-GTT-CT---------------------------------------------
+>SolS-IIIb_Nt4 (FH104506; nt 241-487)
+--ATCCCTTC--------GGGGA------TCGC-CCGGTTCGTTTAG-------------
+--------AGGG--GGT----TATCCAC-----AGCGA--TGAC-CGG----------GA
+CCGA----------TC-----CATCCT---------------------------------
+--------------------CAAT------GCCT-TCTGAATTTGAGCATGTCGTACAGG
+GCTTGC--CTAGTGCGG-------------------------TTTATATCACCT-----G
+TGTAGT--------------TTGCAGGC-TA-TTGCACAGTGG-GGGA------------
+-------TTTA--CCCAATCC-----------------CCGCAAAGTGCTCACCCCAAAG
+TACTCACCC--GAAG------------AGCAGAGA-CT-GTAGCGGCTGC-GGGTTTT--
+TCTGG-ATT-CC---------------------------------------------
+>SolS-IIIb_Nt5 (ET731696; nt 28-274)
+--ATCCCTTC--------GGGGA------TCGC-CCGGTTCGTTTAG-------------
+--------AGGG--GGT----TATCCAC-----AGCGA--TGAC-CGG----------GA
+CCGA----------TC-----CATCCT---------------------------------
+--------------------CAAT------GCCT-TCTGAATTTGAGCATGTCGTACAGG
+GCTTGC--CTAGTGCGG-------------------------TTTATATCACCT-----G
+TGTAGT--------------TTGCAGGC-TA-TTGCACAGTGG-GGGA------------
+-------TTTA--CCCAATCC-----------------CCGCAAAGTGCTCACCCCAAAG
+TACTCACCC--GAAG------------AGCAGAGA-CT-GTAGCGGCTGC-GGGTTTT--
+TCTGG-ATT-CC---------------------------------------------
+>SolS-IIIb_St9 (EI815265; nt 320-559)
+--TGTCTTTC---------GGGA------TGGC-TCAGTTGGTTTGG-------------
+--------AGGAC-GGT----CATCCAT-----ACAGA--TGACCCGA----------GA
+TCGA----------TC----CCCTATT---------------------------------
+--------------------CAAT------GTCT-TCTGAGTC-GAGTCTGTTGGATAGG
+ACTCGC--TTAGTACGA-------------------------TTTACATCTTCG-----G
+TGTGGT--------------TCGCAGAC-TA-TTACAAAGTGG-GGCCAGAG--------
+-------TTTA--CCTAGTGC-------------------------------GCACAAAG
+TGCTCACCC--GAAA------------GACAGAGG-TTGGTAGTGGCTGC-GGGTTAT--
+CCTATGATT-AA---------------------------------------------
+>SolS-IIIb_Nt8 (FH159086; nt 744-499)
+--ATTCCTTC----------GGA------TGGC--CAGTTGGTT-GG-------------
+--------AGAGC-AGT----CATCTAT-----ACAGA--TGACCTGG----------GA
+TCAA----------TC----CCTTTCT---------------------------------
+--------------------CAAT------GCCTTTATGGGTC-GAGCCTGTCGCACAGG
+GCTTG---CTACTGCGG-------------------------TTTACATCCCTT-----G
+TGTGGT--------------TTGCAGGC-TA-TTACATAGTGA-GGGA------------
+-------TTTA--CCCAGTGC-----------------ACACAGAGTTCTCACCACAGAG
+TGCTCACCC--GAAA------------GACAGAGG-CT-GTAGCGGCTAT-GAGTTTT--
+CATGGGATT-GC---------------------------------------------
+>SolS-IIIb_Nt2 (FH897685; nt 130-365)
+--AACCCTTC---------GGGG------TTGC-CCAGTTGGTTTGG-------------
+--------AGGGT-GGT----TATCCAT-----ACGGA--TAACCTGG----------GA
+TCGA----------TT----CTCCCCT---------------------------------
+--------------------CAAT------GCCT-TCCGGGTT-GAGCCTGTCGCACAGG
+GCTTGC--CTAGTGCGG-------------------------TTTACATCCTCT-----G
+TGTGGT--------------TTGCACGC-TA-TTACACAGAGG-GAGG------------
+-------TTTA--CCCAGTGC----------------------------TCACCATAGAG
+TGCTCGCCC--GAAG------------GGCAGAGA-AT-GTAGCGGCTGC-GGGTTTC--
+CCTC---TTGCC---------------------------------------------
+>SolS-IIIb_Nt1 (FH906340; nt 483-240)
+--GTCCCTTC--------GGGGA------TGGC-TCAGTTGGTTTGG-------------
+--------AGGGC-GGT----CACCCAT-----ACAGA--TGATCTGG----------GA
+TCGA----------TC-----CCCCCTC--------------------------------
+--------------------CA-T------GCCT-TCTAGGTT-GAGCCTGTCGCACAGG
+CCTTGC--CTAGTGCGG-------------------------TTTACATTTTCT-----G
+TGTGGT--------------TTGCAGGC-TA-TTATGCAGTAG-AGGG------------
+-------TTTA--CCCATTGC-------------------------------GCACAGAG
+TGCTCACCC--GAAGGGCAGAGGCTGTGGCAGAGG-TT----GCAGCGGT-TGGTTTT--
+CCTGAGGTT-CC---------------------------------------------
+>SolS-IIIb_St6 (ER847734; nt 278-41)
+--CATCCTTC---------GGGA------TGGC-T-AGTTGGTTTGG-------------
+--------AGGGT-GGT----TATCCAC-----ACGGA--TGACCCTA----------GA
+TTGA----------TC-----CCC-CT---------------------------------
+--------------------CAAT------GCCT-TCTGAGTT-GAGTCTGTCGCATAGG
+GCTTGC--CTAGTGCAG-------------------------TTTACAT-CCCT-----G
+TGTGGT--------------TTGCAGGC-TA-TTATACAGTGG-GGGG------------
+-------CTTA--C---GT---------------------------------GCACAAAG
+TGCTCACCC--GAAGGATAGACGCTATGACAGAGG-TT-GTATCGGCTAC-AGATTAT--
+CTTGGAATT-TC---------------------------------------------
+>SolS-IIIb_St2 (AC217507; nt 32147-32391)
+--AGTACTTT---------GTAA-----TAGTC-TCAGTTAGTTTGG-------------
+--------AGGGT-GGT----TATCCAC-----ACGGA--TGATTTGA----------AA
+TCGA----------TC-----TCC-CT---------------------------------
+--------------------CAAT------GCCT-TCTGAATT-GAGCATGTCGCATAGG
+GTTTGC--CTAGTGCGG-------------------------TTTACATCCTTT-----G
+TGTGGT--------------TTGCAGGC-TA-TTACACAGTGG-GGG-------------
+-------TTTA--TCCGGTGC-------------------------------GCACAAAG
+TGCTCACCC--GAAGGACAGAGGCTGTGACAGAGG-TT-GTAGCGATTGC-GGGTTAT--
+CCTGGGGTT-CC---------------------------------------------
+>SolS-IIIb_St10 (EI388145; nt 177-437)
+--TATCCTTC---------AGGA------TGAC-TCAGTTGGTTTGG-------------
+--------AGGGT-GGT----CATTCAC-----ACGGA--TGACCCGG----------GA
+TCGA----------TC-----CCT-CT---------------------------------
+--------------------CAATATAT--GCCT-TCTGAGTC-GAGCCTGTCGCATAGG
+ATTTGC--CTAGTGCGGTTTGCGG------------------TTTACATCCCCTCCCCTG
+TGTGAT--------------TTGTAGGC-TA-TTACACAGTGA-GAA-------------
+-------TTTA--CTCGGTGC-------------------------------GCACAAAG
+TGCTCACCCTCGAAGGACAGAGGTTGTGACAGAGG-TT-GTAGCGGCTGC-GGGTTAT--
+CCTGGGG-T-CC---------------------------------------------
+>SolS-IIIb_Nt6 (FG170517; nt 61-319)
+--AGTCCTTC---------GGGA------CGGC--CAATTGGTTTGG-------------
+--------AGGG--GGT----TATCCAT-----AGTGA--TGACTTAG----------GA
+TCGA----------TC-----CACCCT---------------------------------
+--------------------CAAT------GCCT-TCTGGGTCTGAGCCTGTCGCACAGG
+GCTTGC--CTAGTGCGG-------------------------TTTACAT-CCCG-----G
+TGTGGT--------------TTGCAGGC-TA-TTGCACAGTGG-GGGG------------
+-------TTTA--CCCAGTGT-----------------GCACAGAGTACTCACCACAGAG
+TGCTCACCC-CGAAGGGCAGAGGCTATGACAGAGG-CT-GTAGCGGCTGC-TTATTTT--
+CCTTGGGTT-CC---------------------------------------------
+>SolS-IIIb_St7 (AC235967; nt 159440-159657)
+--TGTCCTTG---------GGAA------TGGC-TCAGCTGGTTTGG-------------
+--------AGGTT-GGT----TATCCAA-----ATGGA--TGATCCGG----------GA
+TCGA----------TT-----CCCCCT---------------------------------
+--------------------CAAT------GCCT-TATGAGTC-GAGCTTGTCGCATAGA
+GCTTGC--CTAGTGCGG-------------------------TTTATATCCCAT-----G
+TGTGGT--------------TTGCAGGC-TA-TTACATAGTGG-GAG-------------
+-------TTTA--CCCAGTGC-------------------------------ACACAAAG
+TGCTCACCC-------------------------------TAGCGGCTGC-AGGTTAT--
+CCTAGGATT-CC---------------------------------------------
+>SolS-IIIb_St8 (AC233350; nt 3201-3459)
+--GGTCCTTC---------GGAA------TGGC-TTAGTTGGTTTGG-------------
+--------AGGGT-GAT----TATCCAC-----ACAGA--TGATCCGA----------GA
+TTGA----------TC-----CCTCCT---------------------------------
+--------------------CAAT------GCCT-TCTGAGTT-GAGTCTGTCGCATAGG
+ACTTGT--CTAGTGTGG-------------------------TTTATATCCCCT-----G
+TGTGGT--------------TTGTAGGC-TA-TTACGCAGTGG-GGG-------------
+-------TTTA--CCCAGTGC-----------------GCACAAAATGCTCACCACAGAT
+TGCTCACCC--GAAAGGCAAAGGCTATGGCAGAGG-TT-ATAGCGGCTGC-GGGTTAT--
+CCTGGGGTT-CC---------------------------------------------
+>SolS-IIIb_Sl1 (EF647602; nt 74333-74570)
+--CGTCCTTC---------GGGA------TGAC-TCAGTTGGTTTGG-------------
+--------AGGGT-GTT----TATCCAC-----ACGGA--TGACCCGG----------GA
+TCGA----------TC-----CCCTCT---------------------------------
+--------------------CAAT------ACCT-ACTTAGTC-GAGCGTGTCGCATAGG
+GCTTTC--CTAGTGCAG--------------------------TTACATCCCCT-----A
+TGTGGT--------------TTGCAGGT-TA-TTACACAGTTT-GGGGGGGAG-------
+-------ATTA--CCAAGTGC-------------------------------GCACAAAG
+TGCTCACCC--GAAGGGCAAAGG-------------TT-GTAGTGGTTGC-GGGTTAT--
+CCTAGGGTG-TA---------------------------------------------
+>SolS-IIIb_St4 (AC231666; nt 37457-37705)
+--TGTCCTTT---------GGGA------TGGC-TCAATTGATTTGG-------------
+--------AGGGT-GGT----TATCCAC-----ACGGA--TGATCCGG----------AA
+TCGA----------TC-----CCCCTT---------------------------------
+--------------------CAAT------GTCT-TCTGAGTA-AAGCATGTCGCATAGG
+GCTTGC--CTAGTGCGG-------------------------TTTACATACCCT-----G
+TGTGGT--------------TTGCAGAC-TA-TTACACAGTGG-GGG-------------
+-------TTTA--CCCAGTGC-----------------ACACAAAATGCTCACCACAGAG
+TGCTCACCC--GAAGGGCAGAGG-------------TT-GTAGCGACGGC-GGATTATAT
+CCTGGGATT-CC---------------------------------------------
+>SolS-IIIb_St1 (AC232707; nt 68484-68722)
+--AGTCCTTC---------GGGA------TGAC-TCAGTTGGTTTGG-------------
+--------AGAGT-GGT----TATCCAC-----ACGGA--TGACCCGG----------GA
+TCGA----------TC-----CCCCCT---------------------------------
+--------------------TAAT------GCCT-TCTGAGTC-GAGCCTGTCACATAGG
+GCTTGC--CTAGTGCGG-------------------------TTTACATCCCCT-----G
+TGTGGT--------------TTGCAGGC-TA-TTACACAGTGG-GGGG------------
+-------TTTA--CCCAGTGC----------------------------TCACCACATAA
+TGCTCACCC--GAAGGGCAGAGGCTGTGACAGAGA-TT-GTAGAGGCTAC------AT--
+-----GGTT-CA---------------------------------------------
+>SolS-IIIb_St3 (ER795968; nt 398-657)
+--AGTCCTTC---------GGGA------TGGC-TCAGTTGGTTTGG-------------
+--------AGGGT-GGT----TATCCAC-----ACGGA--TGACCCGG----------GA
+TCGA----------TC-----CTCCCT---------------------------------
+--------------------CAAT------GCCT-TCTGAGTC-GAGCCTGTCGCATAGG
+GCTTGC--CTAGTGCGG-------------------------TTTACATCCCCT-----G
+TGTGGT--------------TTGCAGGC-TA-TTACACAGTGG-GGGG------------
+-------TTTA--CCCAGTGC-----------------GCACAAAGTGCTCACCACAGAG
+TGCTCATCC--GAAGGGCAGGGGCTGTGGCAGAGG-TT-GTAGCGGCTGA-GGGTTAT--
+CCTGGGGTT-CC---------------------------------------------
+>SolS-IIIb_St5 (AC233501; nt 57677-57419)
+--TGTCCTTT---------GGGA------TGAC-TCAGTTGGTTTGG-------------
+--------AGGGT-GGT----TATCCAC-----ACGGA--TGACCCGG----------GA
+TCGA----------TC-----CCCCCT---------------------------------
+--------------------CAAT------GCCT-TCTGAGTC-GAGCCTGTCGCATAGG
+GCTTGC--CTAGTGCGG-------------------------TTTACATCCCCT-----G
+TGTGGT--------------TTGCAGGC-TA-TTACACATTGG-GGGG------------
+--------TTA--CCCAGTGC-----------------GCACAAAGTGCTCACCACAGAG
+TGCTCACCC--GAAGGGCAGAGGCTGTGGCAGAGG-TT-GTAGCGGCTGC-GGGTTAT--
+CCTGGGGTT-CC---------------------------------------------
+>SolS-II_Sl10 (AC226514; nt 71044-70831)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTTAAT-------------
+--------AGAGT-GGT----TGAGAAC-----CATGA--AGTCTAAG----------GT
+-CAA----------AT------C--CC-----AGCAGAGAC------AAAAACATGAGGT
+--TTTTCTCG---CTA-TTTGTCCTAGCTTTGGT-GGACCGAG--TACTTGGTACCAGTT
+GCTGGC--G----AGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCA-TGG------
+------AATAA--GCCGAGGT---------------------------------------
+------------------------------------GC-ACACAAGCTGGTCCTGGAC--
+ACTATGATTAT----------------------------------------------
+>SolS-II_Sl8 (CU915751; nt 49218-49008)
+--GCACCCG----------AGTG-----TGTGG-CCTAGTGGTCAGT-------------
+--------GAAGT-GGT----TGAGAGC-----CATGA--GGTCTCAG----------GT
+TCAA----------AT------C--TC----AGCTAGAGAC------AAAAATTCTAGGT
+GA-TTCTTC----CAA--CTGACCTAGCCTTGGT-GAATGTAGT-T-CCTGGAACCTGTT
+GCTGGT--G----GGAG-------------------------------------------
+-GGGGC---------------------------------ACGT-ATCCCG-TGG------
+------AATAA--GTCGCGGG---------------------------------------
+----------------------------------------TGAAAGCTGG-CCCAGAC--
+ACCATGGTCAT----------------------------------------------
+>SolS-II_Sl9 (AC216666; nt 49726-49934)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------AAAGTGGAT----TGAGCAC-----CATGA--GTTCTTAG----------GC
+TCAA----------AT------C--CC----AACTA-AGAC------AAAAACACTAGGT
+GATTTCTTC----CCA-TCTATTCTAGCCTTA-T-GGACAGAGT-TACTTGGTACCTGTT
+----GT---------AG-------------------------------------------
+-GTGAC---------------------------------TAAT-ATCCCG-TGG------
+------AATTA--GGCGATGT---------------------------------------
+------------------------------------GC-GTGCAAGTTGC-CCTGGAC--
+ACTACGGTTAT----------------------------------------------
+>SolS-II_St10 (BQ510912; nt 300-514)
+--GCACCGA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAATGAGT----TGAGAAC-----CATGA--GGTCTTAG----------GT
+TCAG----------AT------T--CC-----AACAGAGAT------AAAAACACT--GT
+GATTTCTTC----CCA-TTTGTCCTAGCCTAGGT-GGATAGAGT-TACCTTATACCTGTT
+GCTGGT--A----GGAG-------------------------------------------
+-GTGGC---------------------------------GAGT-ATACCG-TGA------
+------AATTA--GTTGAGAT---------------------------------------
+------------------------------------GC-GCACAAGTTGG-CCCGGAC--
+ACCACAGTGAT----------------------------------------------
+>SolS-II_Sl6 (CU019621; nt 20645-20861)
+--GCACCAA----------AGGG-----TGTGG-CCTGGTGGTCAAT-------------
+--------GAAGT-GTT----TGAGAAC-----CTTAA--GGTCTAAG----------GT
+TCAA----------AA------C--TC-----AGTGGAGAT----AAAAAAACATTAGGT
+GA-TCCTTC----CCA-TCTGTCCTAGCCTTGGA-GAACAAAGT-TACCTGGCACCTGTT
+ATTGGT--G----GGAG-------------------------------------------
+-GTGGT---------------------------------AGGT-ATACCG-TTG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GA-GCGAAAGCTGG-CCCGGAC--
+ACTACGGTCAT----------------------------------------------
+>SolS-II_Sl4 (DU058127; nt 268-483)
+--GCACCCA----------AGGG-----TGTGT-CCTAGTGGTCAAT-------------
+--------GAAGT-GGT----TAAGAAC-----CATGA--GATCTTAG----------AT
+TCAG----------TT------C--CT-----AGCGGAGAC-----AAAAAACACAAGGT
+GA-TTCTTC----CCA-TCTGTCCTAGCCTTGAT-GGATAGAGT-TACCTGGTACTTGTT
+TCTAGT--G----GGAG-------------------------------------------
+-GCGTC---------------------------------AGGT-ATTCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GT-GCGAAAGCTGG-CCCTGAC--
+ACCACTGTCAT----------------------------------------------
+>SolS-II_St5 (EI381475; nt 398-614)
+--GCACGCA----------AGGG-----TATGG-CCTAGTGGTCCAT-------------
+--------GAAGTGGGT----TGAGAAC-----CATGG--GGTCTCGG----------GT
+TCAA----------AT------A--AC-----AGCAGAGAC------AAAAACACTGGGT
+GCTTTCTTC----CCCATTTGTC-TAGTTTTGGT-GGACAAAGT-TACCTGGTACTCATT
+GTTGGT--G----GGAG-------------------------------------------
+-GTGAC---------------------------------ATGT-ATCCCG-TGG------
+------AATTA--GTCAAGGT---------------------------------------
+------------------------------------GC-GCGCAAGCTGG-CCCGGAC--
+ACCACGATTAT----------------------------------------------
+>SolS-II_St7 (EI371810; nt 24-238)
+--GCATCCA----------AGGG-----TGTGG-CCTAGTGATCAAT-------------
+--------GAAGT-GGT----TGAGAAC-----CTTGA--GGTCTCAG----------GT
+TCAA----------AA------C--TT-----AGCGGAGAC------AAAAACACTAGGT
+GA-TTCCTC----CCA-TCTGTCATAGGCTTGGT-AGACAGAGT-TACCTGGTACCTGTT
+GCTGGT--C----GGAG-------------------------------------------
+-GTGGT---------------------------------AGGC-ATCCCA-TGA------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------AT-GCGAAAGCTGA-CCCAGAT--
+ACCACAGTCTT----------------------------------------------
+>SolS-II_St6 (AC232093; nt 31093-30875)
+--GCACCCA----------AGGG-----TGTGG-GCTAGTGGTCAAT-------------
+--------GAAGT-GGT----TGAGAAC-----CTTGA--GGTCTCAG----------AT
+TTAA----------AA------C--TC-----AGCGGAGAC--AAAAAAAAACACTAGGT
+GA-TTCTTC----CTA-TGTGTTCTAGCCTTGGT-AGACAGAGT-TACTTGGTACATGTT
+GCTACT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCG-TAA------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GA-ACGAAATCTAT-CCCGGAC--
+ACCACGGTCAT----------------------------------------------
+>SolS-II_Sl2 (DU041237; nt 446-657)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGTTGGT----TGAAAAC-----CATGA--GGTCTCAT----------GT
+TCAA----------AT------C--CC-----AACAGAGAC-----ATAAAAC-CTAGGT
+GA-TACTTT----CTA-TCTGTTTTAGCCTTGTT-GGACAGAGT-TAC-TGGTACCTG--
+-CTGGT--G----GGAG-------------------------------------------
+-GAGAC---------------------------------AGAT-ATCCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GT-GTGAAAGCTGG-CCTGGAC--
+ACCAGGGTTAC----------------------------------------------
+>SolS-II_Sl1 (AC235477; nt 138790-139005)
+--GCACCCA----------AGGG-----TGTTG-CCTAGTGGCCAAT-------------
+--------TAAGT-GGA----TGAGAGC-----TATGA--GGTCTCAG----------GT
+TCGA----------AT------C--CC-----AACGAAGAT------AAAAACACTAGGT
+GA-TTCTTC----CCA-TCTGTCCTAGCCTTGGT-GGACAGAGT-TACCTGGTACCTGTT
+GCTGGT--GATG-GGAG-------------------------------------------
+-GTGAC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTTGAGGT---------------------------------------
+------------------------------------GC-GCAAAAGTTGG-CC-GGAC--
+ACTAC-GTCAT----------------------------------------------
+>SolS-II_St9 (AC234689; nt 162772-162558)
+--ACACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGT----TGAGAAC-----CCTAA--GATCTCAA----------GT
+TCAA----------AA------C--TC-----AGCGGAGAC-----AAAAAACACTAGGT
+GA-GTCTTC----CCA-TTTGCCCTAACCTTGGT-GGATAGAGT-TACTCGGTACCTGTT
+ATTGGT--G----GGAG-------------------------------------------
+-GTGCC---------------------------------AGGT-ATCATG-TGG------
+------AATTA--GTCAAGGT---------------------------------------
+------------------------------------GT-GCGAAAGCTGG-CCC-GAC--
+AACACGGTCAT----------------------------------------------
+>SolS-II_Sl5 (AC238464; nt 28309-28094)
+--GCACTCA----------AGGA-----TGTGG-CCTAATAGTCAAT-------------
+--------GAAGT-GTT----TGAGAAT-----CCTGA--GGTCTCAG----------GT
+TTGA----------AA------C--TC-----GGGGGAGAC-----AAAAAACACTAGGT
+GA-TTCTTC----CCA-TCTCGACTAGCCTTGGT-GGATAGAGT-TACTTGTTTCTGGTA
+GGAGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTTGAGGT---------------------------------------
+------------------------------------GC-GCGAAAGCTGG-CCCGGAC--
+ACCACGGTCAG----------------------------------------------
+>SolS-II_St2 (AC236732; nt 58900-59115)
+--GCACTCA----------AGGG-----TGCGG-CCTAGTGGTCAAT-------------
+--------GAAGT-CGT----TGAGAAT-----CCTGA--GGTCTTAG----------GT
+TTAA----------AA------C--TC-----AGGGGAGAC-----GAAAAACACTAGGT
+GA-TTCTTC----CCA-TCTAGACTAGCCTTGGT-GGATAGAGT-TACTTGGTACTTGTT
+TCTGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GCAAAAGCTGG-CCCGGAC--
+ACCACGGTCAT----------------------------------------------
+>SolS-II_Sl3 (AC232703; nt 62302-62517)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGT----TGAGAAC-----CTTGA--GCTCTCAG----------AT
+TCAA----------AA------C--TG-----AACGGAGAC-----AAAAAACATTACGT
+GA-TTCTTC----CCA-TCTCTCCTGGCCTTGGT-GGACAGAGT-TACTTGATACTTGTT
+GCTGGT--G----AGAG-------------------------------------------
+-GTTTG---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTCAAGGT---------------------------------------
+------------------------------------GT-GCGAAAGCTAT-CCCGGAC--
+ACCATGGTCAT----------------------------------------------
+>SolS-II_St1 (EI816639; nt 232-447)
+--GCACCCA----------AGGG-----TGTGA-CCTAGTGGTCAAT-------------
+--------GAAGT-GGT----TGAGAAT-----CCTGA--GGTCTCAG----------GT
+TCAG----------AA------C--TC-----AACGGAGAC-----AAAAAACACTAGGT
+GA-TTCTTC----CCA-TCTGTCCTAGCCTTGGT-GGACAGAGT-TACTTGGCACCTGCA
+GCTGGT--G----GGAG-------------------------------------------
+-GTGAC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTCAAGGC---------------------------------------
+------------------------------------GC-GCGAAAGCTGG-CCCGGAC--
+ACCACGGTCAT----------------------------------------------
+>SolS-II_St3 (BG596041; nt 412-623)
+--GCACCCA----------AGGG-----TGTGA-CCTAGTGGTCAAT-------------
+--------GAAGT-GGT----TGAGAAC-----CCTGA--GGTCTCTG----------GT
+TCAA----------AA------C--TC-----AACGGAGAC---AAAAAAAATATTAGGT
+GA-TTCTTC----CCA-TCTGTCCTGGCCTTGGT-GGACAGAGT-TAC----TA--TGTT
+GCTGGT--A----AGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATTCCA-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GT-GCGAAAGTTGA-CCCGGAC--
+ACCACGGTCAT----------------------------------------------
+>SolS-II_St4 (AC234541; nt 68472-68264)
+--GCTCCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGT----TAAGAAC-----TATGA--GGTCTCAG----------GT
+TCAA----------AT------T--CC-----AGCGGAGAC------AAAAGCACCACGG
+GATTTCTTC------------CCCTAGCCTTGGT-GGATAGAAT-TACATGGTGCCTATT
+ACTGGT--G----GAAG-------------------------------------------
+-GTGGC---------------------------------AATT-ATACCG-TGG------
+------AATTA--GTTGAGGT---------------------------------------
+------------------------------------GT-GCGCAAGCTGG-CCCGGAC--
+ACCACGGTTAT----------------------------------------------
+>SolS-II_Sl7 (AC212309; nt 41558-41767)
+--GCACCCA----------AGGG-----TGTGA-CCTAGTGGTCAAT-------------
+--------GCAGT-GGG----TGAGAAC-----CATGA--AGTTTCAC----------GT
+GGAA----------AT------C--TC-----AGCAGAGAC-----AAAAAATACTAGGT
+G------TC----CCA-TCCGTCCTAAACTTGGC-GGACAGAA--AACCTGGTACCTGTT
+GCTGGT--G----GTAG-------------------------------------------
+-GTGAC---------------------------------AAGT-ATTCCG-TGG------
+------AATTA--CTCGAGGT---------------------------------------
+------------------------------------GC-GCGGAAGCTGG-CCCGGAC--
+ACCACAGTTAT----------------------------------------------
+>SolS-II_St8 (AC235693; nt 80558-80344)
+--GCAGCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGT----TGAGAAC-----CCTAA--GGTTTTAG----------GT
+TCAA----------AA------C--TC-----AGTGGAGAC----AAAAAAATACTAGGT
+GATTCTTTC-----CA---TGTCATATCCTTGGT-GGATAGAGT-TATGTGGTACCTATT
+GCAGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GTGAAAGCTGG-TCCGGAC--
+ACCACGGTCAT----------------------------------------------
+>SolS-II_Nt1 (ET791391; nt 185-401)
+--GCACCCA----------ACGA-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAAT-GGG----TGAGAAC-----CATGA--GGTCTCGG----------GT
+TCAA----------AT------C--CC-----AGCGGAAG-----AAAAAAATACTAGGT
+GATTTCTTC----TCA-TCTATCCAAGCCTTGGT-GGATAGAGT-TACCAGGTACCTGTT
+GCTGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCG-TGG------
+------GATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GCGCAAGCTGG-CCCGGAC--
+GCTACAGTTAT----------------------------------------------
+>SolS-II_Nt7 (FG163788; nt 439-226)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGG----TGAGAAC-----TATGA--GGTCTCAG----------GT
+TCAA----------AT------C--CC-----AGCGGAGAC--------AAATACTAGGT
+ATTTTCTTC----CTA-TCTATCCAAGCCTTGGT-GGATAGAGT-TACCTCGTACCTGTG
+GCTGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ACCCCG-TGA------
+------AATTA--GTCGAGCT---------------------------------------
+------------------------------------GT-GCGCAAGTTGG-CCCGGAC--
+ACCACGGTTAT----------------------------------------------
+>SolS-II_Nt8 (ET690281; nt 278-489)
+--GCACCCA----------AGGG-----TGTGG-CTTAGTGGTCAAT-------------
+--------GAAGT-GGG----TGAAAAC-----CATGA--GGTCTCAG----------GT
+TCAA----------AT------C--CC-----AGTGGAGGC--------AAATACTAGGT
+GATTTCTTC----CCA-TCTATCCAATCCTTGGT-GGATAGAGT-TACCTGGTACCTGTT
+GCTGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCA-TGG------
+------AATTA--GTCGAGAT---------------------------------------
+---------------------------------------GCGCAAGCTGG-CCCGGAC--
+ACCATGGTTAT----------------------------------------------
+>SolS-II_Nt4 (FH981156; nt 198-411)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGATCAAT-------------
+--------AAAGT-GGG----TGAGAAC-----CATCA--TGTCTCAG----------GT
+TCAA----------AT------C--CC-----AGCGGAGGC--------AAATACTAGGT
+GATTTCTTC----CTA-TCTATCCAAGCCTTGGT-GGATAGAGT-TATCTGATACCTGTT
+GCTGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGAT-ATCCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GCGCAAGCTGG-CCCGGAC--
+ACCACGGTTAT----------------------------------------------
+>SolS-II_Nt9 (FI062048; nt 251-34)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGG----TGAGAAC-----CATGA--GGTCTCAG----------GT
+TCAA----------AT------C--CC-----AGCGGAGGC--------AAATACTAGGT
+GATTTCTTCCTATCTA-TCTATCCAAGCCTTGGT-GGATAGAGT-TACCTGATACCTGTT
+GCTAGT--G----GGAG-------------------------------------------
+-GTGAC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GCGCAAGCTGG-CCCGGAC--
+ACCACGGTTAT----------------------------------------------
+>SolS-II_Nt10 (FH294575; nt 287-74)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGG----TGAGAAC-----CATGA--GGTCTCAA----------GT
+TCAA----------AT------C--CC-----AGCGGAGGC--------AAATACTAGGT
+GATTTCTTC----CCA-TATATCCAAGCCTTGGT-GGATAGAGT-TACCTGATACCTGTT
+ACTGGT--A----GGAG-------------------------------------------
+-GTGAC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GCGCAAGCTGG-CCCGGAC--
+ACCACGGTTAT----------------------------------------------
+>SolS-II_Nt2 (FH208399; nt 209-422)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGG----TGAGAAC-----CATAA--GGTCTCAA----------GT
+TCAA----------AT------C--CC-----AGCGGAGAC--------AAATACTAGGT
+GATTTCTTC----CCA-TCTATCCAAGCCTTGGT-GGATAGAGT-TACCTGGTACCTGTT
+GCTGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GCGCAAGCTGG-CCCGGAC--
+ACTACGGTTAT----------------------------------------------
+>SolS-II_Nt6 (FH295824; nt 221-434)
+--GCACCCA----------GGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGG----TGAGAAC-----CATGA--GGTCTCAG----------GT
+TCAA----------AT------C--CC-----AGCGGAGGC--------AAATACTAGGT
+GATTTCTTC----CCA-TCTATCCAAGCCTTAGT-GGATAGAGT-TACCTGGTACCTGTT
+GCTGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GCGCAAGCTGG-CCCGTAC--
+ACCACGGTTAT----------------------------------------------
+>SolS-II_Nt3 (FH613646; nt 598-385)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGG----TGAGAAC-----CATGA--GTTCTCAG----------GT
+TCAA----------AT------C--CC-----AGCGGAGGC--------AAATACTAGGT
+GATTTCTTT----CCA-TCTATCCAAGCCTTGGT-GGATAGAGT-TACCTGGTACCTGTT
+GCTGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATTCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GCGCAAGCTGG-CCCGGAC--
+ACCACGGTTAT----------------------------------------------
+>SolS-II_Nt5 (FH305329; nt 232-445)
+--GCACCCA----------AGGG-----TGTGG-CCTAGTGGTCAAT-------------
+--------GAAGT-GGG----TGAGAAC-----CATGA--AGTTTCAG----------GT
+TCAA----------AT------C--CC-----AGCGGAGGC--------AAATACTAGGT
+GATTTCTTC----CCA-TCTATCCAAGCTTTGGT-GGATAGAGT-TACCTGGTACCTGTT
+GCTGGT--G----GGAG-------------------------------------------
+-GTGGC---------------------------------AGGT-ATCCCG-TGG------
+------AATTA--GTCGAGGT---------------------------------------
+------------------------------------GC-GCGCAAGCTGG-CCCGGAC--
+ACCACGGTTAT----------------------------------------------
+>AU_Sl10 (AC232633; nt 5887-6066)
+----------------TGAAGGGGATCCTTGAT-GTAACTGGTAAAG-------------
+--------TTGCA-TCC----ATGTGAT-----GAGAA--GGTCACGA----------GT
+TTAA----------GC--------------------------------------------
+--------TGTGGAAA-CAGTCTCTTGCAGAAAT-GTAGGGTAA-GACTGCATACA----
+-------------ATAG--------------------------------------ACCCC
+TGTGGT--------------------CC-AT-CCCTTCTCCAG-ACTATG-C--------
+------ACACA--GCGGCAAC---------------------------------------
+-------------------------------------T-TAGTGCACCAG-GCT------
+GTGT-----------------------------------------------------
+>AU_St3 (BM112192; nt 314-493)
+----------------GAAGGGGGAGCCTTGAC-GTAATTGGTAAAG-------------
+--------TTATT-GTC----ATGTGAC-----GTAGA--GATTACGG----------AT
+TTGA----------GC--------------------------------------------
+--------TGTGGAAA-CAGCCTCTTGCAGAAAT-GTAGGGTAA-GACTGCGTACA----
+-------------ATAG--------------------------------------ACCCC
+TGTGGT--------------------CC-AG-ACCTTCCCCGA-ACCCTG-T--------
+------GCATA--GTGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGA-GCA------
+GCCC-----------------------------------------------------
+>AU_St10 (ER850041; nt 759-581)
+----------------TAGAAGGAAGCCTTGAC-GTAACTGGTAGAG-------------
+--------TTGTT-GCC----ATGTGAC-----CAGGA--GGTCATGG----------AT
+TTGA----------GC--------------------------------------------
+--------TGCAGAAA-CAGCCTCTTGCAGAAATATGCGGGTAA-GACTGCGTACA----
+------------AATTT--------------------------------------ACCCT
+TGTGGT--------------------AC-GG-CTCTTCCCCGA-ACCATG-C--------
+------GCATA--GCGGGAGT---------------------------------------
+-------------------------------------T-TAGTGCAC--A--CT------
+GCCC-----------------------------------------------------
+>AU_St5 (AC233580; nt 44598-44419)
+----------------TGAAAGGGAGCCTTGGC-ATAACGTGTAAAA-------------
+--------TTGTT-TTC----ATGTGAC-----CAGGA--GGTCATGA----------GT
+TTGA----------GC--------------------------------------------
+--------TGTGGAAA-CAAACTCTTGTAGAAAG-GCAGGGTAA-GGTTGTGTAAA----
+-------------ATAC--------------------------------------ACCCT
+TGTGGT--------------------CC-AG-CCCTTCCCCGG-ACCCCA-T--------
+------GAATA--GCGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCATTGG-GCT------
+GCCT-----------------------------------------------------
+>AU_St6 (AC233489; nt 19775-19951)
+----------------TGAAAGGGAGCCTTTGG-GTGACGGGTAAAG-------------
+--------TTGTT-GTC----ATGTGAC-----CAGAA--GGTCATGG----------GT
+TTGA----------GC--------------------------------------------
+--------TGTGGAAA----CCTCTTGCAGAAAT-GCATGGTAA-GGTTGCATACA----
+-------------ATAC--------------------------------------ACCCT
+TGTGGT--------------------CC-GG-CCCTTCCCGGG-ACCCCA-T--------
+------GAATA--GCGGGAGC---------------------------------------
+-------------------------------------T-TTGTGCACTGA-GCT------
+ACCT-----------------------------------------------------
+>AU_Sl7 (AC232704; nt 91972-92155)
+----------------GGAAGGGGAGCCTTGGC-ATAATTGGTAAAG-------------
+--------TTGTT-GCC----ACGTGA------CAGGA--GGTAACAG----------GT
+TTCA----------ATC-------------------------------------------
+--------TATGGAAA-CAACCTCTTGCATAAAT-GCAAGATGA-GATTGCATACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CC-GA-CTCTTCTCCGG-ACCCCT-C--------
+------TCATA--GCGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCAA-GCTGCCA--
+GACC-----------------------------------------------------
+>AU_St7 (ER806545; nt 333-511)
+----------------GGAAGGGGAGCGTTGGC-ATAATTGGTAAAG-------------
+--------TTGTT-GCC----ACGTTA------CAGGA--GGTGACAG----------GT
+TCAA----------TC--------------------------------------------
+--------TATGGAAA-CAACCTCTTGCAGAAAT-GCAAGGTGA-GATTGCGTACA----
+-------------ATAG--------------------------------------ATCCT
+TGTGGC--------------------CC-GA-CCCTTCCCCGG-ACACCT-C--------
+------TTATA--GCTGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-GGT------
+GCTT-----------------------------------------------------
+>AU_Sl9 (AK326561; nt 1194-1372)
+----------------TGAAGGGGAGCTTTCGC-GTAACTGGTAAAG-------------
+--------TTGCT-GCC----ATGTGAC-----CAGGA--GGTCACGG----------GT
+TTGA----------GT--------------------------------------------
+--------TGTGGAAA-CAACCTCTTGCAAAAAT-GTAGGTAGG--GCTGCATACA----
+-------------AAAG--------------------------------------ATCCT
+TGAGGT--------------------CC-AG-CTGTTCCTGGG-ACCCTG-C--------
+------GCATA--GCAGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCAA-ACT------
+ATCC-----------------------------------------------------
+>AU_St2 (AC236712; nt 118005-117827)
+----------------TGAAGGGGAGACTTGGC-GTAAATAGTAAAA-------------
+--------TTCTT-GCC----ATGTGAC-----TTGAA--GGTCATGG----------GT
+CGGA----------CT--------------------------------------------
+---------GTGGAAA-CAACCTTTTGTAGAAAT-GCACCATAA-GGCTGTGTACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CT-GG-CCCTTCCCCGG-ACCCTG-C--------
+------GCATA--ATGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-GCT------
+GCCC-----------------------------------------------------
+>AU_Sl6 (AC209508; nt 46427-46249)
+----------------TAAAGTGGAGCCTTTGG-GTAACTAGTAAAG-------------
+--------TTGTT-GCC----ATGTGAC-----TTGGA--GGTCACAG----------GT
+TCGA----------GC--------------------------------------------
+--------TGTGGAAA-CAACCTCTTGTAGACAT-GTAGGGTAA-GGTTGCATGCA----
+-------------AAAG--------------------------------------ACCCT
+TGTGGT--------------------CT-GG-CCTTTCCCTGG-ACCCCA-A--------
+------GCATA--GTGGGAGC---------------------------------------
+-------------------------------------T-TAG-GCACCGG-GGT------
+GCCC-----------------------------------------------------
+>AU_Sl5 (AC211024; nt 140054-140232)
+----------------CCGAAGGGACCGTTTGC-GTAATTTGTAAAG-------------
+--------TTGTT-TCC----ATGTGAC-----TAGGA--GGTCGCGG----------GT
+TCGA----------GC--------------------------------------------
+--------TGTGTAA--AAGCCTCTTGCAGAAAT-GCAGGGTAA-GGCCGCATACA----
+-------------ATAG--------------------------------------ACTCT
+TGTAGT--------------------CC-GG-CCCTTCCCTGG-ATCCCA-C--------
+------ACATA--GCGGGGGC---------------------------------------
+-------------------------------------C-TTGTGCACCGG-GCT------
+GCCC-----------------------------------------------------
+>AU_Sl2 (AC212432; nt 18110-17932)
+----------------TTGAAGGGAGCCTTGGC-GTTACTGGTAAAG-------------
+--------TTATT-GTC----ATGCGAC-----CAAGA--GGTCACAG----------GT
+TCAA----------GC--------------------------------------------
+--------TGTGGAAA-CAACCTCTTGTAGAAAT-GCAGGGTAA-GGTTGCTTACA----
+-------------AAAG--------------------------------------ACCCT
+TGGGGT--------------------CC-GG-CCATTCCCCAG-ACCT-G-C--------
+------ACATA--GCAGGAGC---------------------------------------
+-------------------------------------T-TAGTGTACCCG-GCT------
+GTCC-----------------------------------------------------
+>AU_Sl4 (AC211074; nt 16173-15943)
+----------------CGAAGGGGAGCCTTGGC-GTAACTGGTAAAG-------------
+--------TTGCT-GCT----ATGTGAC-----CAGGA--GGTCACAG----------GT
+TCGA----------GC--------------------------------------------
+--------TGTGAAAA-CTGCATCTTACAGAAAT-GCAGG--AA-GGCTGTGTACA----
+-------------ATGT--------------------------------------ACCCT
+TGTGCT--------------------CC-AG-CCCTTCCCTGG-ACCTCT-T--------
+------GCATA--GCGGGGGC---------------------------------------
+-------------------------------------T-TAGTGTATAGG-GCT------
+ACCC-----------------------------------------------------
+>AU_Sl8 (AC212437; nt 54355-54173)
+----------------GGAAGGGGAGCCTTGGC-ATAACTGGTAAAG-------------
+--------TTATT-GTC----ATGTGAC-----CAGGA--GGTCACGT----------GT
+TCAA----------GC--------------------------------------------
+--------CGTGGAAA-CAAACCTCTCGAGAAAT-GCAGGGTAA-GGC-GCATATA----
+-------------ATAG--------------------------------------GCCGT
+TATGGT--------------------CC-GG-TCCTTCCACGG-ATCC-G-C--------
+------GCATA--GTGGGAGC---------------------------------------
+------------------------------------TT-TAGTGCACCGG-GCTGCTG--
+GGCC-----------------------------------------------------
+>AU_Sl1 (AC212792; nt 46815-46995)
+----------------TGAAGGGGAGTTTTGAC-GTAACTGGTAAAG-------------
+--------TAGTT-GCC----TTGTGAC-----TAGGA--GGTCACGG----------GT
+TCGA----------GC--------------------------------------------
+--------CGTGGAAA-CAACCTCTTCAAAAAAATGTAGGGTAA-GACTGCGTACA----
+-------------ATTG--------------------------------------ACCCT
+TGTGGT--------------------TC-GG-CCCTTCCCCGG-ACCCTG-T--------
+------GCATA--ACGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACAGG-GCT------
+TTCC-----------------------------------------------------
+>AU_St4 (AC231670; nt 59265-59441)
+----------------GGAAGGGGAGCCTTGGT-GTAACTGCTAAAG-------------
+--------TTGCT-ATC----ATGTGAC-----CAGGA--GGTCACGG----------GT
+TCAA----------AC--------------------------------------------
+--------CGTGGAAA-CAGCCTTCTGCAGAATT-GCAGGGTAA-GGCTGCGAACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CT-GG-CCCTTCCCTGG-ACCCCG-C--------
+------GCAAA------GAGC---------------------------------------
+------------------------------------TT-TTGTGCACTGC-GCT------
+GCCC-----------------------------------------------------
+>AU_St9 (ER852019; nt 804-629)
+----------------TGGAAGGGAGC-TTGGT-GTAACTGCTAAAG-------------
+--------TTGCT-ATC----ATGTGAC-----CAGGA--GGTCACGG----------GT
+TCAA----------AC--------------------------------------------
+--------TGTGGAAA-CAG-CTTCTGCAGAATT-GCAGGGTAA-GGCTGCGAACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CT-GG-CCCTTTCCCTGGACCCCG-C--------
+------GCAAA------GAGC---------------------------------------
+------------------------------------TT-TAGTGCACTGC-GCT------
+GCCC-----------------------------------------------------
+>AU_St8 (EI814845; nt 469-636)
+----------------AGAAGGGGAGC-----------CT-GTAAAG-------------
+--------TTGTT-GTC----ATGTGAC-----CAGGA--GGTCACGG----------GT
+TAGA----------GC--------------------------------------------
+--------TGTGGAAA-CAACCTCTTGCAGAAAT-ACAGGGTAA-GGCTGCGTACA----
+-------------ATAG--------------------------------------ACCCT
+TATGGT--------------------CC-TG-CCCTTCCCCAG-ACCCTG-C--------
+------GTATA--GCCC-AGC---------------------------------------
+-------------------------------------T-TATTGCACCGG-GTT------
+GACT-----------------------------------------------------
+>AU_Sl3 (AC238459; nt 88456-88636)
+----------------AGAAGGGGAGTCTTGGT-GTAACTGGTAAAG-------------
+--------TTGTT-GCC----ATGTGTGA----CCGGA--GGTCACGA----------GT
+TGAA----------GT--------------------------------------------
+--------CATGGAAA-CAGCCTCTTGCAGGAAT-GCAGGGTAA-GGCTGCGTACA----
+-------------ATAG--------------------------------------ACCGT
+TGTGGT--------------------CC-GG-CCCTTCTTCGG-ACC-TG-T--------
+------GCATA--ACGGGAGC---------------------------------------
+------------------------------------TT-TAGTGCACCAG-GCT------
+GCCT-----------------------------------------------------
+>AU_St1 (AC233448; nt 37818-37638)
+----------------GAAAGGGGAGCCTTGGA-GTAATTGGTAAAG-------------
+--------TTGCT-GCC----ATGTGAC-----CAGGA--GGTCACGG----------GT
+TCAA----------GC--------------------------------------------
+--------CTTGGAAA-CAGCCTCTGGCAGAAAT-GCAAGGTAA-GGCTACGTACA----
+-------------ATAG--------------------------------------GCCCT
+TGTGGT--------------------CG-GG-CCCTTCCCTGG-ACCCTG-C--------
+------ACATA--GCGGGAGC---------------------------------------
+------------------------------------TT-TAGTGGACCGG-GCT------
+GCCC-----------------------------------------------------
+>AU_Nt3 (FH357277; nt 225-404)
+----------------TGAAGGGGTGCCTTGGC-GTAACTGGTAAAA-------------
+--------TTGTT-GCC----ATGTGAC-----CAGGA--GGTCACGG----------GT
+TCGA----------GC--------------------------------------------
+--------CGTGGAAA-CAACCTCTTGCAAAAAT-GCAGAGTAA-TGCTGCGTACA----
+-------------ATAG--------------------------------------ACCAT
+TGTAGT--------------------CC-GG-CCCTTCCCCGG-ACCCTG-C--------
+------GCATA--GCGGTAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-GCT------
+GCCA-----------------------------------------------------
+>AU_Nt10 (FH947961; nt 115-294)
+----------------CGAAGGGGAGCCTTGGC-GCAACTGGTAAAG-------------
+--------TTGTT-GCC----ATGTGAC-----CAGGA--GGTCGCGG----------GT
+TCGA----------GC--------------------------------------------
+--------CGTGGAAA-TAGGCTCTTGCAGAAAT-GCAGGGTAA-GGCTGCGTACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CC-GG-CCCTTCCCCGG-ACCCCG-C--------
+------GTATA--GCGGCAGT---------------------------------------
+-------------------------------------T-TAGTGCACTGG-GCT------
+GCCT-----------------------------------------------------
+>AU_Nt4 (FH116541; nt 369-548)
+----------------TGAAGGGGAGCCTTTGCCGTAATTGGTAAAG-------------
+--------TTGCT-GCC----ATGTGAC-----CATGA--GGTCACGG----------GT
+TCAA----------GC--------------------------------------------
+--------TGT-GAAA-CAGCCTCTTGCAGAAAT-GCAAGGTAA-GGCTGCGTACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CC-GG-CTCTTCCCCGG-ACCCTG-T--------
+------GCATA--GCGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-GCT------
+GCCT-----------------------------------------------------
+>AU_Nt9 (FH998256; nt 320-499)
+----------------AGAAGGTGAATCTTATC-GTAACTGGTAAAG-------------
+--------TTGTT-GCC----ATGTGAC-----CAGGA--GGTCACGG----------GT
+TCGA----------GC--------------------------------------------
+--------TGTGGAAA-CAGCCTCTTGCAGAAAT-GCAGGGTAA-GGCTGCGGACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CC-GG-CCCTTTCCCGG-ACCCCG-C--------
+------GCATA--GCAGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-GCT------
+GCCC-----------------------------------------------------
+>AU_Nt2 (FH028903; nt 403-224)
+----------------TGAAGGGGAGCCTTGGC-GTAACCGGTAAAG-------------
+--------TTGCT-GCC----ATGTGAC-----CAGGA--TGTCACGG----------GT
+TCGA----------GC--------------------------------------------
+--------TGTGGAAA-CAACATCTTGCAGAAAT-GCAGGGTAA-GGCTGCGTACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CC-GA-CCCTTCCCCGG-ACCCCG-C--------
+------GCATA--GCGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCATCGG-GCT------
+GCCC-----------------------------------------------------
+>AU_Nt5 (ET830162; nt 386-207)
+----------------TGAAGGGGAGCCTTGGC-GTAACTGGTAAAG-------------
+--------TTGTT-GCC----ATGTGAT-----CAGGA--GGTCACGG----------GT
+TCAA----------GC--------------------------------------------
+--------CGTGGAAA-CAACCTCTTGCATAAAT-GCAGGGTAA-GACTGCGTACG----
+-------------ATAG--------------------------------------AACCT
+TGTGGT--------------------TC-GG-CCCTTCCCCGG-ACCCCG-C--------
+------ACATA--GCGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-GCT------
+GCCA-----------------------------------------------------
+>AU_Nt7 (FG195962; nt 460-637)
+----------------TGAAGGGGAGCCTTGAC-GTAACTGGTAAAG-------------
+--------TTGTT-GCC----ATGTGAT-----CAGGA--GGTCACGG----------GT
+TCGA----------GC--------------------------------------------
+--------TGAGGAAA-CAGCCTCTTGCAGAAAT-GCAGGGTAA-GGTTGCGTACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CC-GG-CCCTTTCCCAG-A-CCCG-C--------
+------GCATA--GCGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-G-T------
+GCCC-----------------------------------------------------
+>AU_Nt1 (FH008786; nt 670-490)
+----------------AGAAGGGGAGCCTTGGC-GTAACTGGTAAAG-------------
+--------TTGTT-GCC----ATGTGAC-----CAGGA--GGTCACGG----------GT
+TCAA----------GC--------------------------------------------
+--------CATGGAAA-CAGCCTCTTGCAGAAAT-GCAGGGTAA-GGCTGCGTACA----
+-------------ATAG--------------------------------------ACCCG
+TGTGGT--------------------CC-GGTCCCTTCCCCGG-ATCCCG-C--------
+------ACATA--GCGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-GCT------
+GCCC-----------------------------------------------------
+>AU_Nt6 (ET777037; nt 348-170)
+----------------TGAAGGGGAGCATTGGC-GTAACTGGTAAAG-------------
+--------TTGCT-GCC----ATGTGAC-----CAAGA--GGTCACGG----------GT
+TCAA----------GC--------------------------------------------
+--------CGTGGAAA-CATCCTCTTGCAGAAAT-GCAGGGTAA-GGCTACGTACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CC-GG-CCCTT-CCCGT-ACCCCG-C--------
+------GCATA--GTGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-GCT------
+GCCC-----------------------------------------------------
+>AU_Nt8 (FH925487; nt 385-206)
+----------------TGAAGGGGAGCTTTGGC-GTAACTTGTAAAG-------------
+--------TTGCT-GCC----ATGTGAT-----AAGGA--GGTCACGG----------GT
+TCAA----------GC--------------------------------------------
+--------CGTGGAAA-CAGCCTCTTGCAGAAAT-GCAGGGTAA-GGCTGCGTACA----
+-------------ATAG--------------------------------------ACCCT
+TGTGGT--------------------CC-GG-CCCTTCCCCGG-ACCCCG-C--------
+------GCATA--GCGGGAGC---------------------------------------
+-------------------------------------T-TAGTGCACCGG-GCT------
+GCCC-----------------------------------------------------
+>SolS-IV_Nt4 (ET795042; nt 393-586)
+----GCCCCC---------AAGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GGTGG-TGG----ATTTGTG-----TCTTA--GGTCACAG----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CAGAGTTTCGA-AGGCTG-CG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------ATCGGCCCCAA-ACAGATT--
+TCTCGGTCATA----------------------------------------------
+>SolS-IV_Nt10 (FH501321; nt 558-365)
+----GCCCCC---------AGGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GGTGA-TGG----ATTTGTG-----TCTTA--GGTCACAG----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CACATTATC-CA-CCGAGTTTCGA-AGGCTG-CG-------
+------GTTGG--TCCAAAGG---------------------------------------
+---------------------------------------ATCGGCCCCAG-ACAGATT--
+TCTCGGTCATA----------------------------------------------
+>SolS-IV_Nt2 (FH444369; nt 601-408)
+----GCCCCC---------GGGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GGTGG-TGG----ATTTGTG-----TCTTA--GGTCACAG----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCAGG-------------CCCATTATC-CA-CCGAGTTTCGA-AGGCTG-CG-------
+------GTTGG--TCCAAAGG---------------------------------------
+---------------------------------------ATCGGCCCCAG-ACGGATT--
+TCTCGGTCATA----------------------------------------------
+>SolS-IV_Nt6 (FH654460; nt 436-629)
+----GCCCCC---------AGGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GGTGG-TGG----ATTTGTG-----TCTTA--GGTCACAA----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCTGG-------------CCCATTATC-CA-CCGAGTTTCGA-AGGCTG-CG-------
+------GTTGG--TCCAAAGG---------------------------------------
+---------------------------------------ATCGGCTCCAG-ACGGATT--
+TCTCGGTCATC----------------------------------------------
+>SolS-IV_Nt7 (FH057746; nt 217-410)
+----GCCCCC---------AGGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GGTGG-TGG----ATTTGTG-----TCTTA--GGTCACAG----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTCGA-AGGCTG-CG-------
+------GTTGG--TGCAAAGA---------------------------------------
+---------------------------------------ATCGGCCCCGG-ACGGATT--
+TCTCGGTCATC----------------------------------------------
+>SolS-IV_Nt8 (FH333833; nt 331-138)
+----GCCCCC---------AGGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GGTGG-TGG----ATTTGTG-----TCTTA--GGTCACAG----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+TGCGGG-------------CCCATTATC-CA-CTGAGTTTCGA-AGGCTG-CT-------
+------GTTGG--TCCAAAGG---------------------------------------
+---------------------------------------ATCGGCCCCAG-ACGGATT--
+TCTCGGTCATC----------------------------------------------
+>SolS-IV_Nt5 (FH552265; nt 225-418)
+----GCCCCC---------AGGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GGTGG-TGG----ATTTGTG-----TCTTA--GGTCACAG----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+-----------------------------ACCAT-GCAATGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTCGA-AGGCTA-CG-------
+------GTTGG--TCCAAAGG---------------------------------------
+---------------------------------------ATCGGCCCCAG-ACGGATT--
+TCTCGGTCATC----------------------------------------------
+>SolS-IV_Nt9 (ET973088; nt 320-514)
+----GCCCCC---------AGGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GATGG-TGG----ATTTGTG-----TCTTA--GGTCACAG----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+----------------------------CACCAT-GCAAAGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTCGA-AGGCTG-CG-------
+------GTTGG--TCCAAAGG---------------------------------------
+---------------------------------------ATCGGCCCCAG-ACGGATT--
+TCTCGGTCGTC----------------------------------------------
+>SolS-IV_Nt1 (FH373538; nt 474-281)
+----GCCCCC---------AGGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GGTGG-TGG----ATTTGTG-----TCTTA--GGTCACAG----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTCGA-AGGCTG-CG-------
+------GTTGG--TCCAAAGG---------------------------------------
+---------------------------------------ATCGGCCCCAG-ACGGATT--
+TCTCGGTCATC----------------------------------------------
+>SolS-IV_Nt3 (ET701237; nt 14-207)
+----GCCCCC---------AGGG----CCTAGC-TCAAGTGGCAAAG-------------
+--------GGTGG-TGG----ATTTGTG-----TCTTA--GGTCACAG----------GT
+TCAA----------GC-----CCCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCAA-AGCCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTCGA-AGGCTG-CG-------
+------GTTGG--TCCAAAGG---------------------------------------
+---------------------------------------ATTGGCCCCAG-ACGGATT--
+TCTCGGTCATC----------------------------------------------
+>SolS-IV_Sl10 (AC216665; nt 41456-41265)
+----GCCCCCA--------AGG-----CCTAGC-TCGAGTGGCAAAA-------------
+---------GTGG-AGG----ATTTGTG-----GCTTA--GGTAGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------AAAAT-GCAAAGTGA-AGTCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------C
+GGTGGG-------------TTCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGA--TCCAAAGG---------------------------------------
+---------------------------------------ACGGGTGATAG-ACGGATT--
+TCTCGGTTATA----------------------------------------------
+>SolS-IV_Sl8 (AC232858; nt 48797-48605)
+----GCACCCA--------AGG-----CCTAGC-TCGAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTCGTG-----ACTTA--AGTCACAA----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AAGCTAGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATT-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCTGAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-GCAGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_Sl5 (EU139069; nt 33264-33072)
+----GCTCCCA--------AGG-----CCTAGC-TCGAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGTGA-AGCCCGGTATTTAAG
+TGGAGA--ACGGTAGAG------------------------------------------G
+GGTGGG-------------CCCATCGTC-AA-CCGAGTTTAGA-AGGCTG-TA-------
+------GTTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCAGGTCACAG-ATAGCTT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_Sl9 (EF647604; nt 2112-2309)
+----GCCCCCA--------AGG-----CCTAGC-TCGAGTGGCAAGA-------------
+--------GGTGG-AGG----ATTTATG-----GCTTA--GGTCGCAC----------GT
+TCAA----------GC------CCCAC---------------------------------
+------------------------ACCATACCAT-GCAAAGTGA-AACCTGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCAGG-------------CCCATTATC-CA-CCGAGTTTAAA-AGGCTG-TG-------
+------ATTG---ATCGAAAG---------------------------------------
+-------------------------------------G-GCGGGTGACAG-ACGGATT--
+TCTCAGTTATC----------------------------------------------
+>SolS-IV_Sl7 (AC217915; nt 49233-49424)
+----GCCCCCA--------AGG-----CCTAGC-TCGAGTGGCAAA--------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCACAG----------GC
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGTCTGGTATTTAAG
+TGGAGA--GGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGTTG-TG-------
+------ATTGG--ACCGAAGA---------------------------------------
+---------------------------------------GCCGGTCACAG-GCGGATT--
+TCTCGGTCATC----------------------------------------------
+>SolS-IV_Sl2 (AC186291; nt 12023-12215)
+----GCCCCCA--------AGG-----CCTAGC-TCGAGTGTCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCATAG----------GT
+TCAA----------GC------TCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCAATATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------ACGGGTCACAG-GCAGATT--
+TCTCAGTTATA----------------------------------------------
+>SolS-IV_Sl3 (DU961030; nt 215-407)
+----GCCCCCA--------AGG-----CCTAGC-TCTAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GATTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+AAGAGA--AGGGTAGAG------------------------------------------G
+CGTGGG-------------CCCATTATC-CA-CCGAGTTCAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-AAGGATT--
+TCCCGATTATT----------------------------------------------
+>SolS-IV_Sl6 (AC226018; nt 44177-44366)
+----GCCCCCA--------AGG-----CCTAGC-TCGAGTGGCAAAG-------------
+--------GGTGG-AGG----ACTTATG-----GCTTA--CGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCAGTATTTAAG
+TGGAGA--AGGGTAGAG-------------------------------------------
+--AGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGA---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCAGTTGTC----------------------------------------------
+>SolS-IV_Sl4 (AC234405; nt 4342-4532)
+----GCCCCCA--------AGG-----CGTAGC-TTGAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC--------CAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-GGTACGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCTGG-------------CCCATAATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGTTT--
+TTTCGGTTATC----------------------------------------------
+>SolS-IV_Sl1 (AC233779; nt 58-249)
+----GCCCCCA--------AGG-----CCTAGC-TCGAGTGGCAAAA-------------
+--------GGTGG-AGG----GTTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCAA-AGCCCGGTATTTAGG
+TGGAGA--AGGGTAGAG-------------------------------------------
+GGCGGA-------------CCCATCATC-CA-CTGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAA-ACGGATT--
+TCTCGGTTATT----------------------------------------------
+>SolS-IV_St4 (AC231668; nt 110820-110628)
+----GCCTCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_St5 (AC233425; nt 74535-74727)
+----GCCCCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGACTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_St6 (AC233434; nt 53101-52909)
+----GCCCCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGTTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_St7 (AC214286; nt 120702-120894)
+----GCCCCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGAGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_St8 (AC209520; nt 94403-94595)
+----GCCCCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAA----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_St1 (AC234295; nt 116684-116876)
+----GCCCCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_St2 (AC216954; nt 109950-110142)
+----GCCCCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_St3 (AC234547; nt 106798-106606)
+----GCCCCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_St9 (EI384631; nt 531-339)
+----GCCCCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-IV_St10 (EI821142; nt 453-261)
+----GCCCCCA--------AGG-----CCTAGC-TCAAGTGGCAAAA-------------
+--------GGTGG-AGG----ATTTGTG-----GCTTA--GGTCGCAG----------GT
+TCAA----------GC------CCCAC---------------------------------
+-----------------------------ACCAT-GCAAAGCGA-AGCCCGGTATTTAAG
+TGGAGA--AGGGTAGAG------------------------------------------G
+GGCGGG-------------CCCATTATC-CA-CCGAGTTTAGA-AGGCTG-TG-------
+------ATTGG--TCCAAAGG---------------------------------------
+---------------------------------------GCGGGTCACAG-ACGGATT--
+TCTCGGTTATC----------------------------------------------
+>SolS-V_Nt7 (ET801118; nt 503-610)
+---GACAAGA---------GGGA-----ATTGT-TCAGATGGTTAGC-------------
+-------ACTCCC-CAC----CTACAAC-----CCCAG--GGTTGTGG----------GT
+TTGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AAGGAG----------------------------------------C-A
+ATAGCTCTAATAAA-----------------------G-GGGA-----------------
+------TCAAA-------GAGAA-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Nt8 (FH236670; nt 345-458)
+---GACAAGA---------GGGG-----GTTGC-TTAGATGGTCAGT-------------
+-------ACCCCC-CAC----CTACAAC-----CCCAG--GGTCGTGG----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AAGGAG----------------------------------------C-A
+ATAGCTCCAACAAA-----------------------GTGGGA-----------------
+------TCAAA--GGGGAAGGAG-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Nt10 (ET878155; nt 312-438)
+---GACAAGA---------GGGG-----GTTGC-TCAGATAGACAGC-------------
+-------ATCCCC-CAC----CTACAAC-----CCCGA--GATTGTGG----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AAGGAG----------------------------------------C-A
+AAAGCTCCAACAAA-----------------------GAGGGA-TCAAAGGGAAA-----
+------TCAAAGGGAAGGGGAAT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>TS_Nt9 (FH219467; nt 576-370)
+---GACAAGA----------GGG-----GTTGC-TCTGATGGTAAGC-------------
+-------AACCTC-CAC----TTCCAAC-----CAAGA--GGTTGTGA----------GT
+TCGA----------GT------CACCC---------------------------------
+--------CAAGAGCA-AGGTGGGGAGTTCTTGG-AGGGAA-GGATGCCGAGGGTCTATT
+-------------GGAA----------------------------ACAACCTCTCTACCT
+CATGGTAGGGGTAAGGTCTGCGTACACA-CT-ACCCTTCCCAT-ACCCCA----------
+--------CTA--GTGGGATT---------------------------------------
+-------------------------------------------ATATTGA-GTTG-----
+---------------------------------------------------------
+>TS_Nt10 (FH178812; nt 262-470)
+---GACAAGA----------GGG-----GTTGC-TCTGATGGTAAGC-------------
+-------AACCTC-CAC----TTCCAAC-----CAAGA--GGTTGTGA----------GT
+TCGA----------GT------CTCCC---------------------------------
+--------CAAGAGCA-AGGTGGGAAGTTCTTGG-AGGGAA-GGATGCCGGGGGTCTATT
+T------------GGAA----------------------------ACAGCCTCTCTACCT
+CAGGGTAGGGGTAAGGTCTGCGTACACA-CT-ACCCTCCCCAG-ACCCCA----------
+--------CTA-AGTGGGATT---------------------------------------
+-------------------------------------------ATACTGG-GTTG-----
+---------------------------------------------------------
+>TS_Nt8 (FH404107; nt 569-775)
+---GACAAGA----------GGG-----GTTGC-TCTGATGGTAAGC-------------
+-------AACCTC-CAC----TTCCAAC-----CAAGA--GGTTGTGA----------GT
+TCGA----------GT------CACCC---------------------------------
+--------CAAGAGCA-ATGTGGGGAGTTCTTGG-AGGGAAAGGATGCTGAGGGTCTATT
+-------------GGAA----------------------------ACAGCCTCTCTACTT
+CATGGTAGGGGTAAGGTCTGCGTACACA-CT-ACCCTCCCCAG-ACCCCA----------
+--------CTA--GTGGGATA---------------------------------------
+--------------------------------------------TACTGG-GTTG-----
+---------------------------------------------------------
+>TS_Nt1 (FH227950; nt 493-287)
+---GACAAGA----------GGG-----GTTGC-TCTGATAGTAAGC-------------
+-------AACCTC-CAC----TTCCAAC-----CAAGA--TGTTGTGA----------GT
+TCGA----------GT------CACCC---------------------------------
+--------CAAGAGCA-AGGTGGGGAGTTCTTGG-AGGGAA-GGATGCCGAGGGTCTATT
+-------------GGAA----------------------------ACAGCCTCTCTACCT
+CATGGTAGGGGTAAGGTCTGCGTACACA-CT-ACCCTCCCCAA-ACCCCA----------
+--------CTA--GTGGGATT---------------------------------------
+-------------------------------------------ATACTGG-GTTG-----
+---------------------------------------------------------
+>TS_Nt5 (FH653596; nt 327-121)
+---GACAAGA----------GGG-----GTTGC-TCTGATGGTAAGC-------------
+-------AACCTC-CAC----TTCCAAC-----CAAGA--GGTTGTGA----------GT
+TCGA----------GT------CACCC---------------------------------
+--------CAAGAGCA-AGGTGGGGAGTTCTTGG-AGGGAA-GGATGCCGAGGGTCTATT
+T-------------GAA----------------------------ACAGCATCTCTACCT
+CATGGTAGGGGTAAGGTCTGCGTACACA-CT-ACCCTCCCCAG-ACCCCA----------
+--------CTA--GTGGGATT---------------------------------------
+-------------------------------------------ATACTGG-GTTG-----
+---------------------------------------------------------
+>TS_Nt6 (D17454; nt 27-233)
+---GACAAGA----------GGG-----GTTGC-TCTGATGGTAAGC-------------
+-------AACCTC-CAC----TTCCAAC-----CAAGA--GGTTGTGT----------GT
+TCGA----------GT------CACCC---------------------------------
+--------CAAGAGCA-AGGTGGGGAGTTCTTGG-AGGGAA-GGATGCCGAGGGTCTATT
+-------------GGAA----------------------------ACAGCCTCTCTACCT
+CATGGTAGGGGTAAGGTCTGCGTACACA-TT-ACCCTCCCCAG-ACCCCA----------
+--------CTA--GTGGGATT---------------------------------------
+-------------------------------------------ATACTGG-GTTG-----
+---------------------------------------------------------
+>TS_Nt4 (ET923957; nt 14-220)
+---GACAAG----------GTGG-----GTTGC-TCTGATGGTAAGC-------------
+-------ACCCTC-CAC----TTCCAGC-----CAAGA--GGTTGTGA----------GT
+TCGA----------GT------CACTC---------------------------------
+--------CAAGAGCA-AGGTGGGGAGTTCTTGG-AGGGAA-GGATGCCGAGGGTCTATT
+-------------GGAA----------------------------ACAACCTCTCTACTC
+CAGGGTAGGGGTAAGGTGTGCGTACACA-CT-ACCCTCCCCAG-ACCCCA----------
+--------CTA--GTGGAATT---------------------------------------
+-------------------------------------------ATACTGG-GTTG-----
+---------------------------------------------------------
+>TS_Nt3 (ET810260; nt 363-153)
+---GATGTTCAAG------GTGC-----GTTGC-TCTGATGGTAAGC-------------
+-------ACCCTC-CAC----TTCCAAC-----CAAGA--GGTTGTGA----------GT
+TCGA----------GT------CACCC---------------------------------
+--------CAAGAGCA-AGGTGGGGAGTTCTTGG-AGGGAA-GGATGCCGAGGGTCTATT
+-------------GGAA----------------------------ACAGCCTCTCTACCC
+TAGGGTAGGGGTAAGGTCTGCGTACACA-CT-ACCCTCCCCAG-ACCCCA----------
+--------CTA--GTGGGATT---------------------------------------
+-------------------------------------------ATACTGG-GTTA-----
+---------------------------------------------------------
+>TS_Nt2 (ET774464; nt 365-159)
+---GACAAG----------GTGG-----GTTGC-TCTGATGGTAAGC-------------
+-------ACCCTC-CAC----TTCCAAC-----CAAGA--GGTTGTGA----------GT
+TCGA----------GT------CACCC---------------------------------
+--------CAAGAGCA-AGGTGGAGAGTTCTTGG-AGAGAA-GGATGCCGAGGGTCTATT
+-------------GGAA----------------------------ACAGCCTCTCTACCC
+CAGGGTAGGGGTAAGGTCTGCGTACACA-CT-ACCCTCCCCAA-ACCCCA----------
+--------CTA--GTGGGATT---------------------------------------
+-------------------------------------------ATACTGG-GTTG-----
+---------------------------------------------------------
+>TS_Nt7 (FH788379; nt 123-329)
+---GACAAG----------GTGG-----GTTGC-TCTGATGGTAAGC-------------
+-------ACCCTC-CAC----TTCCAAC-----CAAGA--GGTTGTGA----------GT
+TCGA----------GT------CACCC---------------------------------
+--------CAAGAGCA-AGGTAGGGAGTTCTTGG-AGGAAA-GGATGCCGAGGGTCTATT
+-------------GGAA----------------------------ACAGCCTCTCTACCC
+CAGGGTAAGGGTAAGGTCTGCGTACACA-CT-ACCCTCCCCAG-ACCCCA----------
+--------CTA--GTGGGATT---------------------------------------
+-------------------------------------------ATACTGG-GTTG-----
+---------------------------------------------------------
+>SolS-V_Nt6 (ET693065; nt 331-435)
+---GACAAGA---------GAGG-----ATTGC-TCAATTGGTGAGT-------------
+-------AATCTT-CAT----ATCCAAC-----CCAAA--GGTTGTGA----------GT
+TCGA----------CT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-T
+AA-----------------------------------GTAGG--GAGC------------
+------TCCTA--GGGAGAAGTT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Nt9 (FH632866; nt 447-343)
+---GACAAGA---------GAGG-----GTTGC-TCAAGTGGTAAGC-------------
+-------ACCATT-CAC----CTCCAGC-----CCAAA--AGTTGCGA----------GT
+TTGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AA-----------------------------------TTGGG--GAGT------------
+------TCTTG--GGGAGGGATT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Nt1 (ET727010; nt 214-316)
+---AACAAGA---------GAGG-----GTTGC-TCATGTGGTAAAC-------------
+-------ACCCTC-CAC----CTCCAAC-----CCAAA--GGTTGCGG----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AA-----------------------------------GTGGG---AGC------------
+-----TCCTTG--GG-AG-GGGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Nt2 (ET726934; nt 577-474)
+---AACAAGA---------GAGG-----GTTGC-TCATGTGGTAAAA-------------
+------CACCCTC-CAC----CTCCAAC-----CCAAA--GGTTGCGG----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AA-----------------------------------GTGGG---AGC------------
+-----TCCTTG--GG-AG-GGGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Nt3 (FH060136; nt 483-587)
+---GACAAGA---------GAGG-----ATTGC-TCAAGTGGTAAGC-------------
+-------ATCCTT-CAC----CTCCAAC-----CTTGA--GGTTGTGG----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------A-A
+AA-----------------------------------ATAGG---AGC------------
+-----AAAATA--GGGAGGCGTT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Nt4 (FH634935; nt 408-512)
+---AGAGAGG---------GAGG-----GTTGC-TCAAGTGGTAAGC-------------
+-------ACCTTT-CAC----CTCCAAC-----CTTGA--GGTTGTGG----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AAGGAG----------------------------------------C-A
+AG-----------------------------------ATGGAG-GAGC------------
+------TCCTA--GGGAG-GGGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Nt5 (FH058427; nt 353-249)
+---AGAGAGG---------GAGG-----GTTGC-TCAAGTGGTAAGC-------------
+-------ACCTTT-CAC----CTCCAAC-----CTTGA--GGTTGTGG----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AG-----------------------------------ATGGAG-GAGC------------
+------TCCTA--GGGAG-GGGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl7 (AC216365; nt 31593-31486)
+---GACGAGA---------GGGA-----GTTGT-TAGGATGGTAAGT-------------
+-------ACTCCT-CAT----TTTCAAC-----CCGAA--GGTTGTGA----------GT
+TTGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGAGAA----------------------------------------A-A
+TAAAGA-------------------------------GTAGA---AGC------------
+------TCCTA--GGGAGGGTTC-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl10 (CZ992035; nt 199-305)
+---TACAAGA---------GGGG-----GTTGC-TAGGATGATAAAC-------------
+-------ACCCTT-CAC----CTCCAAC-----CCTAA--GGTTGTGG----------GT
+TAAA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAGAG-------------------------------GTGGG---AGT------------
+------TCCTA--GGGAG-GGGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl9 (AC209662; nt 34330-34435)
+---TCCGAGA---------AGGA-----ATTGC-TCAGATGGTAAGC-------------
+-------ATCTCT-CAC----TTCCAAC-----C-AAA--GGTTGCGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGAAAG----------------------------------------C-A
+AAAGGG-------------------------------ATGGA---AGC------------
+------TCCTA--GGAGA-GGGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl3 (AC211034; nt 55953-56058)
+---TCCAAGA---------GGGA-----GTTGC-TCGAATGCTAAGC-------------
+-------AGCACT-CAC----TTCCAAC-----CCGAA--GGTTGTGA----------AT
+TTGA----------GT------CACTA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAAGG-------------------------------GTGGG---AGC------------
+------TCCTA--GGCAGGCC---------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl5 (CU457806; nt 74814-74707)
+---GACGAGA---------AGGA-----GTTGC-TCCGATGGTAAGC-------------
+-------ACCGCT-CAC----TTCCAAC-----CCTAT--GGTTGTGA----------GT
+TTGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------A-A
+AAAAGG-------------------------------GTGGG---AACTC----------
+------CTTTA--G--AGGGGGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl6 (AC212303; nt 37149-37043)
+---GACGAGA---------GGGA-----GTTAC-TCCGATGATAAGC-------------
+-------A-CCCT-TAC----TTCAAAC-----CCGAA--AGTTTCGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAA----------------------------------------C-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCCTA--GAGGAGAGTT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl2 (AP009323; nt 102949-102844)
+---AGCAAGA---------GGGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ACCCCT-CAC----TCCCAAC-----CCTAA--GGTTGTGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAAG--------------------------------GTGGA---AAC------------
+------TCCTA--GGGAG-GGGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl4 (DU951350; nt 151-45)
+---AATGAGA---------GAGA-----GTTGT-TCGGATGGTAAGC-------------
+-------ACCTCT-CAC----TTCCAAC-----CTCAA--GGTTGTGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGAAG----------------------------------------T-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCCTA--GGGAAA-GGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl8 (AC215370; nt 3164-3275)
+---GATGAGA---------GGGA-----GTTGC-TTGGTTGGTAAGT-------------
+-GAAAACATCCTT-CAC----TTCCAAC-----CCGAA--GATTGCGA----------GT
+TCGA----------AT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGAGAG----------------------------------------C-A
+AAAGGG-------------------------------GTGAA---AGC------------
+------TCCTA--GGGAG--GGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St8 (AC231870; nt 44599-44492)
+---GACGAGA---------GGGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ATCCCT-CAC----TTCCAAC-----CCGAA--GGTTGCGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCCTA--GGGGGAGGGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_Sl1 (CU459061; nt 10231-10124)
+---GACGAGA---------GGGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ACCCCT-CAC----TTCCAAC-----CTAAA--GGTTGCGA----------GT
+TCGA----------GT------TACCA---------------------------------
+------------------------------------------------------------
+----------AGAGGAG----------------------------------------C-A
+AAAGGG-------------------------------GTGGT---AGC------------
+------TTCTA--GGGAG-GGTT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St7 (AC232084; nt 82700-82595)
+---GACGAGA---------GGGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ACACCT-CAC----TTCCAAC-----CCAAA--GGTTGCGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TTCTA--GGGAG--GGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St9 (AC232018; nt 90693-90587)
+---GACGAGA---------GGGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ACCCCT-CAC----TTCCAAC-----CCGAA--GGTTGCAA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AATAGG------------------------------GGTGAG---AGC------------
+------TCCTA--GGGAG--GGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St5 (AC235610; nt 83686-83791)
+---GACGAGA---------GGGA-----GTTGC-TCGAATGGTAAGC-------------
+-------ACCCCT-CAT----TTCCAAC-----CCGAA--GGTTGCGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGAAG----------------------------------------C-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCCTA--GGGAG--GGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St6 (AC231670; nt 53894-53999)
+---GACGAGA---------GGGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ACCCCT-CAC----TTCCAAT-----CTGAA--GGTTGCGA----------GT
+TCAA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCCTA--GGGAG--GGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St4 (ER825543; nt 167-62)
+---GACGAGA---------GAGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ACCCCT-CAC----TTCCAAC-----CTGAA--GGTTGCGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCCTA--GGGAG--GGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St3 (AC216950; nt 33419-33314)
+---GAGGAGA---------GGGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ACCCCT-CAC----TTCCAAC-----CCGAA--GGTTGCGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCTTA--GGGAG--GGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St10 (AC233636; nt 115156-115050)
+---GACGAGA---------GGGA-----ATTGC-TCGGATGGTAAGC-------------
+-------ACCCCT-CAC----TTCCAAC-----CCGAA--GGTTGCGA----------GT
+TCGA----------AT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------CAA
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCCTA--GGGAG--GGT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St1 (AC234546; nt 19326-19219)
+---GACGAGA---------GGGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ACCCCT-CAC----TTCCAAC-----CCGAA--GGTTGCGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCCTA--GGGAGGGATT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-V_St2 (EI827209; nt 131-237)
+---GACGAGA---------GGGA-----GTTGC-TCGGATGGTAAGC-------------
+-------ACCCCT-CAC----TTCCAAC-----CCGAA--GGTTGCGA----------GT
+TCGA----------GT------CACCA---------------------------------
+------------------------------------------------------------
+-----------AGGGAG----------------------------------------C-A
+AAAGGG-------------------------------GTGGG---AGC------------
+------TCCTA--GGGAG-GGAT-------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------
+>SolS-Ib_Sl7 (AC210363; nt 60499-60686)
+----ACTAACAA-------GTGT-----TGTGG-TGGACTGGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----AAATA--GGTCGCAA----------AT
+TTGA----------TT------C-------------------------------------
+--------------------------TCCTTGGT-ACGGAGTCT-CCTTTGTTA------
+------------GGGAG-----------------------------CACTTTAACCTTC-
+AATGCGGG----------------------A-CTTTCCAGCAT-GAATCTGG--------
+------ATTTA--GCCAGACT---------------------------------------
+-------------------------CCAATATGGTGTA-CTGGACACCCA-ATGGAAA--
+CCC------------------------------------------------------
+>SolS-Ib_Sl9 (AP010894; nt 101421-101234)
+----ACAAAGAA-------GGCT-----TGTGG-TGTATTGGTAAGT-------------
+------ATTTTTG-CAT----CTTTAAC-----CAAGA--GGTCTTAG----------GT
+TCGA----------TT------T-------------------------------------
+-------------------------CCGTTGGGC-ACATAATCA-TCTTTGTTA------
+------------GGGAG-----------------------------TGTTTTACCAATC-
+AATGTGGG----------------------A-CTTTCCGGGGT-GAATCCAG--------
+------ATTTA--GTAGGGCT---------------------------------------
+-------------------------CTAATGTGGG-TA-CCGAACACCGG-ATAGAAA--
+CTC------------------------------------------------------
+>SolS-Ib_Sl8 (CZ936066; nt 836-649)
+----ACAAACAA-------GGGT-----TGTCG-TGTATTAGTAAGT-------------
+------ACTCCTG-CAT----CCTTAAC-----CAAGA--GGTCTCAA----------TT
+TCGA----------TT------C-------------------------------------
+-------------------------ATGTTGGGT-ACATAATCA-TCTTTATTA------
+------------AGGAG-----------------------------TGCCTTACCACCT-
+AATGTGGG----------------------A-CTTTTTGGCGT-GAATCCAG--------
+------ATTTA--GTTGAGCT---------------------------------------
+-------------------------CCGATGTAGG-TA-CCGAACACCGG-ATGGAAA--
+ACC------------------------------------------------------
+>SolS-Ib_Sl5 (CT485992; nt 50709-50895)
+----ACCAACAA-------TTGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTTTTT-CAT----CCTTAAC-----TAAGA--GGTCTC-A----------TT
+TTGA----------TT------C-------------------------------------
+-------------------------CCCTTGGGT-ACATAGTCG-CTTTTGTTA------
+------------GGGAA-----------------------------CACTTTGCCTCAT-
+AATGTAGG----------------------A-CTTCCCGGCGT-GAATCCGA--------
+------ATTTA--GTCGAGCT---------------------------------------
+-------------------------CTAATGTGGG-TA-CCAGACACCAG-ATAGAAA--
+ACA------------------------------------------------------
+>SolS-Ib_Sl10 (DU074098; nt 573-761)
+----AGTAACAC-------GGAT-----TGTGG-TGGAGTAGTAAGT-------------
+------ACTCCTT-CAT----CTGTAAC-----TAAGA--GTTCTTGG----------GT
+TCAA----------GC------C-------------------------------------
+-------------------------CCCTTGGGT-ACGGAGTCA-CCTTTGTTA------
+------------GGGAG-----------------------------TGCTTAA-CTCCC-
+ATTGTGGG----------------------A-CTTTTCAACGC-GAATTCTAG-------
+------ATTTA--GGCGGACT---------------------------------------
+------------------------CCAACCGTGAG-TA-CTGCACACCGG-GTGGAAA--
+ACA------------------------------------------------------
+>SolS-Ib_Nt4 (FH679185; nt 339-521)
+----ATCAACA--------AGGT-----TGTGG-TGGAGTGGTAAAT-------------
+------ACTTCTT-TAT----CCTTAAC-----C-AGA--GGTCTCGG----------GT
+TTGA----------GT------C-------------------------------------
+--------------------------CC-TAGAT-ATGGAGTCG-CCTTTGTTA------
+------------GGAAG-----------------------------CGCCTTA-CTCTC-
+AATGTGGA----------------------A-CTTTCCGGTGC-GAATCCGA--------
+------CTTTA--GTCGGGCC---------------------------------------
+-------------------------CCAATGTGGA-TA-ATGGACATCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_Sl3 (AC229681; nt 78589-78403)
+----ACCAACA--------TGGT-----TGTGG-TAGAGTAGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----CAAGA--GATCTCGT----------GT
+TCGA----------GT------T-------------------------------------
+-------------------------TCTTTGGGT-ATAGAGTCG-CCTTTGTTA------
+------------GGGAA-----------------------------CGCTTTACCCTCC-
+AATATTGG----------------------A-CTTTCCGATGC-GAATCCGA--------
+------ATCTA--GTCATGCT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCAAACAGCGG-GTGGGTA--
+ACC------------------------------------------------------
+>SolS-Ib_Nt8 (AM788359; nt 234-51)
+----ACCAATAA-------GGGT-----TGTGG-TGGAGTGGTATGT-------------
+------ACACCTT-CAT----TCTTAAC-----C-AGA--GGTCTCGG----------GT
+TCGA----------GA------C-------------------------------------
+---------------------------C-TGGGT-GTGGAATCG-CCTTTGTTA------
+------------GGGAA-----------------------------CGTTTTACCCCCT-
+AATGTGGG----------------------A-CTTTCCGATGC-GAATCTGA--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAATATGTG-TA-CTAGATACTGG-GTGGGAA--
+ACA------------------------------------------------------
+>SolS-Ib_Nt5 (FH412411; nt 451-634)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGCGGTAAGT-------------
+------AATCCTT-TAT----CCTTAAC-----C-AGA--GGTTTCGA----------AT
+TCGA----------GC------C-------------------------------------
+--------------------------TC-TGGGT-ATGGAGTCG-CCTTTGTTA------
+------------GGGAG-----------------------------CGCTTTA-CCCCC-
+AATGTGGG----------------------A-CTTCTCGGCGT-GAATCCGA--------
+------ATTTA--ATCGATCT---------------------------------------
+-------------------------TCAATGTGAG-TA-CCGGATACCGG-ACGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_Sl6 (AC238478; nt 6174-5990)
+----ACCAACAACGACAT-GGAT-----TGTGA-TGAAGTGGTGAGT-------------
+------ACTCCTT-CAT----CCTTAAT-----C-AGA--GGTCTCGG----------AT
+TCAA----------GT------C-------------------------------------
+-------------------------CCC-TGGGT-ACGGAGTCG-CCATTGTTA------
+------------GGGAG-----------------------------TGCTTTACTCCCCC
+AATGTGGG----------------------A-CTTCCCAACAC-GATTCCGG--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCACT----------CAAACACCGG-GTGGGAA--
+ACA------------------------------------------------------
+>SolS-Ib_Sl2 (CU457751; nt 115349-115536)
+----ACTAACAA-------GGGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTCCTT-CAT----ACTTAAC-----CAAGA--GGTCTCAG----------GT
+TCGA----------GT------C-------------------------------------
+-------------------------CCCTTAGGT-ACGGAGTCG-CCTTTGTTA------
+------------GGGAG-----------------------------TGTTTTACTCCAC-
+AATGTGGG----------------------A-CTTCCCGATCC-GAATCCGG--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAAAGTGGA-TA-CCATACACCGG-ATGGGAA--
+ACA------------------------------------------------------
+>SolS-Ib_Nt9 (ET814240; nt 351-169)
+----ACAAACAA-------GAGT-----TGTGG-TAGAGTGGTAAGT-------------
+------ACTCCTT-TAT----CCTTAAC-----C-AGA--GATCTCGA----------GT
+TCGA----------GC------C-------------------------------------
+---------------------------C-TGGGT-ATGGAGTCG-CCTTTGTTG------
+------------GGGAG-----------------------------CGCTTTATCCCCC-
+AATGTAGG----------------------A-CTTCCCAGCGC-AAATTCG---------
+------AATTA--ATCGGGCT---------------------------------------
+-------------------------CCAATGTAGA-TA-CCGAATACCGG-GTGAGAA--
+ATT------------------------------------------------------
+>SolS-Ib_Nt3 (ET722986; nt 168-349)
+----ACCAACAA-------GAAT-----TGTGG-TGGAGTGTTAAGT-------------
+------ACTCCTT-CAT----CCTTAAT-----T-AGA--GGTATTGG----------GT
+TCGA----------GT------C-------------------------------------
+--------------------------CC-TGGAT-ATTGAGTCG-CCTTTGTTA------
+------------GGGAG-----------------------------CACTTTA-CCCCC-
+AATGTGGG----------------------A-CTTCCCGGCGC-GAATCCGA--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAATATGGG-TA-CTAGACACCGG---GAGAA--
+ACC------------------------------------------------------
+>SolS-Ib_Nt10 (FH518419; nt 466-287)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGTTAAGT-------------
+------ACTC-TT--GT----CCTTAAT-----T-AGA--GGTATCGT----------GT
+TCGA----------GT------C-------------------------------------
+--------------------------CC-TAGGT-ATGGAGTCG-CCTTTGTTA------
+------------GGAAG-----------------------------CACTTTA--CCCC-
+AATGTGTG----------------------A-CTTCCCGGCGC-GAATCCAG--------
+------ATTTA--GTCGGGCC---------------------------------------
+--------------------------CAACGTGGG-TA-CCGGACATCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_Nt7 (FH938234; nt 334-518)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTCCTT-CAT----TCTTAAC-----C-AGATCGGTCTCGA----------GT
+TTGA----------AC------C-------------------------------------
+--------------------------CC-TGAGG-TTAGAGTCG-CCTTTGT-A------
+------------GGGAG-----------------------------CGCTTTA-CCCCC-
+AATGTGGG----------------------A-CTTTCCGGCGC-GAATCTGG--------
+------ATTTA--GTCGGGCC---------------------------------------
+-------------------------CCAATGTGGA-TA-CCGGACACTGG-GTAGGAA--
+ACA------------------------------------------------------
+>SolS-Ib_Nt6 (ET889021; nt 480-664)
+----ACCCACAA-------GAGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----C-AGAT--GTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+--------------------------CC-TGGGT-ATGGAGTCG-CCTTTGTTA------
+------------GGGAG-----------------------------CGCTTTA-CCCCA-
+AATGTGAG----------------------A-CTTCCCGGCAC-GAATCCGG--------
+------ATTTA--ATCGGGGC---------------------------------------
+------------------------CCCAATGTAAA-TA-CCGGATACCGA-GTGAGAA--
+ACC------------------------------------------------------
+>SolS-Ib_Nt1 (FI083757; nt 384-568)
+----ACCAATTA-------GGGT-----TGTGG-TAGAGTGGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----C-AGAT--GTTTCAG----------AT
+TCGA----------GT------C-------------------------------------
+---------------------------CTTGGGT-ATGGAGTCG-CCTTTATTA------
+------------GGGAG-----------------------------CGCTTTACCCTCC-
+AATGTGGG----------------------A-CTTCCCGGCGC-AATTCCGG--------
+------ATTTA--GTCGGGTC---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGAACACCAG-GTGAGAA--
+ACC------------------------------------------------------
+>SolS-Ib_Sl4 (EF576814; nt 17013-17190)
+----ACCAACAA-------GGGT-----TTTGT-TGGATTTGTAAGT-------------
+------ACTCC-------------TA-C-----C-AG-T-GATCTCGG----------GT
+TCGA----------GT------C-------------------------------------
+-------------------------CCCTTGGGT-ACGGAGTCG-CCTTTGTTA------
+------------GGGGG-----------------------------TGCTCTACCCCCC-
+AATGTGGG----------------------A-CTTCCCGGTGC-GAATGTGG--------
+------ATTTA--GTCGGGAT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGAACACCGG-ATGGAAA--
+ACC------------------------------------------------------
+>SolS-Ib_Nt2 (FH121703; nt 494-675)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----CAA-A--GGTCTCGG----------GT
+TCCA----------GT------C-------------------------------------
+--------------------------CC-TGAGT-ATGGAGTCG-CCTTTGTTA------
+------------GGGAG-----------------------------TGCTTTACCCTCC-
+AATGTGGG----------------------A-CTTCCCGGCAC--AATCCG---------
+------ATTTA--GTCAGCCC---------------------------------------
+--------------------------CAATGTGGG-TA-CCGAACACCGG-GTGGAAA--
+ACC------------------------------------------------------
+>SolS-Ib_St8 (AC217722; nt 100629-100442)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGGTAAGT-------------
+------AGTCCTT-CAT----CCTTAAC-----CAAGA--GGTCTCGG----------GT
+TCGA----------GT------C-------------------------------------
+-------------------------CCCTTGGGT-ACGGAGTCA-CCTTTGTTA------
+------------GGGAG-----------------------------CGCTATACCGCCC-
+AATGTGGG----------------------T-CTTTTCGGCGC-AAACTCGG--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAATGTGGT-TA-CCGAACACCAT-ATGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_St2 (AC236842; nt 29387-29573)
+----ACCAACAA-------CAGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----CAAGA--GGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+--------------------------CCTTGGGT-ACATAGTCG-ACTTTGTTA------
+------------AGGAG-----------------------------CGCTTTACCCCCC-
+AATGTGGG----------------------A-CTTCCCGGAGA-GAATCCGA--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAATGTGGG-TA-TCGGACACCGG-ATGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_St5 (AC232066; nt 21222-21409)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----CAAGA--GGTCTCGG----------GT
+TCAA----------GT------C-------------------------------------
+-------------------------CCCTTGGGT-ACGGAGTAG-CCTTTGTTA------
+------------GGGAG-----------------------------CGCTTTACCCCCC-
+AATGTGGG----------------------A-CTTCGTGGCGC-GAATTCAG--------
+------ATTTA--GTCGGACT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGGACACCGG-GTGAGAA--
+ACA------------------------------------------------------
+>SolS-Ib_St1 (AC235695; nt 34504-34317)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGGTAAGC-------------
+------ACTCCTT-CAT----CCTTAAC-----CAAGA--AGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+-------------------------TCCTTGGGT-ACGGAGTCG-CCTTTGTTA------
+------------TGGAG-----------------------------CGCTTTACCCCCC-
+AATGTGGG----------------------A-CTTTCCGGTGC-GAATTCGG--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGGACATCGG-GTGGGAA--
+ATA------------------------------------------------------
+>SolS-Ib_St7 (AC235693; nt 78235-78048)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGGTAAGC-------------
+------ACTCCTT-CAT----CCTTAAC-----CAAGA--AGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+-------------------------TCCTTGGGT-ACGGAGTCG-CCTTTGTTA------
+------------TGGAG-----------------------------CGCTTTACCCCCC-
+AATGTGGG----------------------A-CTTCCCGGTGC-GAATTCAG--------
+------ATTTA--GTCAGGCT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGGACATCGG-GTGGGAA--
+ATA------------------------------------------------------
+>SolS-Ib_Sl1 (AC226519; nt 3720-3536)
+----ACCAACAA-------GTGT-----TGTGG-TGGAGCGGTAAGT-------------
+------ACTCATT-CAT----CCTTAAC-----CAAGA--GGTCTCGG----------GT
+TCAA----------GC------C-------------------------------------
+--------------------------CCTTGGGT-ACGGAGTCG-CCTTTGTTA------
+------------GGGAG-----------------------------CGTTTTA--CCCC-
+AACGTGGG----------------------A-CTTTCCGGCGC-AAATCCGA--------
+------ATTTA--CTCGGGCT---------------------------------------
+-------------------------CCAATGTGGG-TG-CCGGACACCGG-ATGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_St9 (AC231870; nt 119744-119930)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGATAAAT-------------
+------ACTCCTT-CAT----CCTTAAC-----CAAGA--GATCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+-------------------------CCCTTGGGT-ATATAGTCA-CCTTTGTTG------
+------------GGGAG-----------------------------TGCTTTA-CCCCC-
+AATATGGG----------------------A-CTTTCCGGCGC-GAATCCGA--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGGACACCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_St10 (ER814766; nt 402-217)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTCCTT-CAT----TCTTAAC-----CAAGA--GGTCTTGG----------GT
+TCAA----------GT------C-------------------------------------
+-------------------------CTCTTGGGT-ACGGAGTTG-CCTTTGTTA------
+------------GGGAG-----------------------------CGCTTTACCCCCC-
+AACGTGGG----------------------A-CTTCCCGGAGC-GAATCTGG--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGGA--CCTG-ATGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_St4 (AC236749; nt 54920-55104)
+----ACCAACAA-------GGGT-----TGTGG-T---GTTGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----CAAGA--GGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+-------------------------CCCTTGGGT-ACGGAGTCA-CCTTTGTTA------
+------------GGGAG-----------------------------AGCTTTACCCCCC-
+AATGTGGG----------------------A-CTTTCTGGCGC-GAATTCGA--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAATGTAGG-TA-CCGAACACCGG-ATGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_St3 (ER830520; nt 403-217)
+----ACCAACAA-------GGGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----CAAGA--GGTCTCGG----------GC
+TCGA----------GC------C-------------------------------------
+-------------------------CCTTTGGGT-ACGGAGTCA-CCTTTGTTA------
+------------GGGAG-----------------------------CGTTTTA-CCCCC-
+AATGTGGG----------------------A-CTTCCCGGCGC-GAATCCAA--------
+------ATTTA--GTCGGGCT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGGACACTGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ib_St6 (EF175216; nt 1698-1512)
+----ACCAAGCA-------GGGT-----TGTGG-TGGAGTGGTAAGT-------------
+------ACTCCTT-CAT----CCTTAAC-----CAAGA--GGTCTTGG----------GT
+TCGA----------GC------C-------------------------------------
+-------------------------CTCTTGGGT-ACGGAGTCA-CCTTTGTTA------
+------------GGGAG-----------------------------CGCTTTA-CCCCC-
+AATGTGGG----------------------A-CTTCCCAGCGC-GAATCCGG--------
+------ATTTA--GTCAGGCT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGGACACCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Nt5 (FH112613; nt 52-232)
+----ACCACCAT-------AAGA-----TGTGG-TGCAGCGGATAGG-------------
+-----GCTGCTCT-TTC----CTTAACT-------AGA--AGTCTCGG----------GT
+TCAA----------GA------C-------------------------------------
+----------------------------CTGGGT-ATGGAAAAA-TTGTTAGTA------
+------------GGGAG-----------------------------CGCTT---CCCCCG
+AAT--GGG---------------------TC-ATACGCGGCGC-GAATCCGG--------
+------ATATA--GTCGGACT---------------------------------------
+-------------------------CCAATACAAG-TA-CCGGACGCTGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Nt4 (FH920003; nt 246-64)
+----ACCACCAA-------AGGA-----TATGG-TGCAGTAGATAGG-------------
+-----ACTGCTCT-TCC----CTTAACC-------GGA--GGTCTAGG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTAGGT-ATGGAAAAA-TCTTTGGTA------
+------------GGGAG-----------------------------CGCTC--ACCCCCG
+AAT--GGC-------------------A-CC-CTACGTGGCGT-GGATCTGG--------
+------ATATA--GTGGGGCT---------------------------------------
+-------------------------CTAATGTGGT-TA-CCGGACAACGA-GTGAGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Nt3 (ET803544; nt 650-470)
+----ACCATCAA-------GTGA-----TGTGG-TGCAGTAGATGGG-------------
+-----GCTGCTCC-TCC----CTTAACC-------AAA--AGTCTCGA----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATAGAAAAA-TCCTTGGTA------
+------------GGGAG-----------------------------CGCTA--CCCCCCA
+TGA--GGC----------------------C-TTACCCGGCGC-TAATCCGA--------
+------ATATA--GTCGGACT---------------------------------------
+-------------------------CCAATGCATG-TA-CCGGACATCTG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Nt7 (FH730950; nt 605-424)
+----ACCACCAA-------AGAA-----CGTGG-TGCAACGGATGGG-------------
+-----GCTGCTCC-TCC----CTTAACC-------ACA--GGTCTCGA----------GT
+TCGA----------GC------C-------------------------------------
+-----------------------------TGGGT-ATGAAAAAA-TCCTTAGTA------
+------------GGGAG-----------------------------CGCTA--TCCCCCG
+AAT--GGG-------------------G-CC-CTACCCGGCGC-AAATCCGG--------
+------TTATA--GTCGGACT---------------------------------------
+-------------------------TCAATGCGGG-TA-CCGAACACCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Nt9 (ET795170; nt 719-538)
+----TCCACCAA-------AGGA-----TATGG-TGCAGTGGATGTG-------------
+-----ACTGCTCC-TCT----CTTAACC-------ATA--GGTTTCGA-----------T
+TCGA----------GC------C-------------------------------------
+----------------------------CTAGAT-ATGGAAAAA-TCCTTGGTA------
+------------GAGAG-----------------------------CGCTT--CCCCCCG
+AAT--GGG-------------------G-CC-CTACGCGGTGC-GAATTCAA--------
+------ATATA--GTCGGGCT---------------------------------------
+-------------------------CCAATGCGGA-TA-CCGGACACCGA-GTGGAAA--
+ACA------------------------------------------------------
+>SolS-Ia_Nt10 (ET808260; nt 488-308)
+----ACCACCAA-------AGAA-----TGTGG-TGTAGCGAATGAG-------------
+-----GTTGCTCT-TCC----CTTTACC-------AGA--GGTCTCGA----------AT
+TCGA----------GC------C-------------------------------------
+----------------------------CT-GGT-ATGGAAAAA-TCCTTGGTA------
+------------GGGAG-----------------------------CACTT---CCCCCG
+AAT--GGG-------------------G-CC-CTATGCTGTGC-GAATTCGG--------
+------ATATA--GTCGGGCT---------------------------------------
+-------------------------CCAATGTGGG-TA-CCGTACACCGG-ATGAGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Nt1 (FH669095; nt 561-742)
+----ACCACCAA-------AGAA-----TGTGA-TGCAGTGGATGAG-------------
+-----ATTGTTCT-TCC----CTTAACC-------AAA--GGTCTCGA----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------TTGGGT-ATGGAAAAA-TTCTTGGTA------
+------------GGGAG-----------------------------CGCTT--CCCCCCG
+AAT--GGG---------------------CG-CTACACAGTGC-GAATCTGG--------
+------ATATA--GTCGGGCT---------------------------------------
+-------------------------CCAATGCGAG-TA-CCGAACACCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Nt2 (FH334496; nt 5-186)
+----ACCACCAA-------AGAA-----TGTGA-TGCAGTGGATGAG-------------
+-----ATTGTTCT-TCC----CTTAACC-------AAA--GGTCTCGA----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------TTGGGT-ATGGAAAAA-TTCTTGGTA------
+------------GGGAG-----------------------------CGCTT--CCCCCCG
+AAT--GGG---------------------CG-CTACACAGTGC-GAATCTGG--------
+------ATATA--GTCGGGCT---------------------------------------
+-------------------------CCAATGCGAG-TA-CCGAACACCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Nt6 (ET828344; nt 427-609)
+----ACCATCAA-------AGGA-----TCTAG-TGCCGTGGATGAG-------------
+-----ATTGCTCT-TCC----CTTAATC-------AGA--GGTCTCGG----------AT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATGGAAAAA-TCCTTGGTA------
+------------GGGAG-----------------------------TGCTT--CCCCCCG
+AAT--GGG-------------------G-CC-CTACGCGACCC-GAATCCGG--------
+------ATATA--GTTGGTCT---------------------------------------
+-------------------------CCAATGCGGG-TA-CCGGACATCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Nt8 (FH380381; nt 762-582)
+----ACCA-CAA-------AGGA-----TGTG--TGCAGTGGATGAG-------------
+-----ACTGCTCC-T-C----CTTAATC-------AGA--GGTCTCGA----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATGGAAAAT-TCCTTGGTA------
+------------GGGAG-----------------------------CTCTT--CCCCCCG
+AAT--GGG-------------------G-CC-CTACGCGGCGG-GAATCCGGG-------
+------ATATA--GTCGGGCT---------------------------------------
+-------------------------CTAATGCGGG-TC-CCGGACACCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Sl10 (AC226014; nt 64531-64708)
+----ACCAACAT-------GGGT-----TATGA-TGCACTGGTGGGA-------------
+------GTGTTTC-ATC----CTTAATC-------AGA--AGTCACGA----------GT
+TCAA----------GT------C-------------------------------------
+----------------------------CCAGAT-ATGGAGAAA-ATCTTGTTG------
+-------------GAAG-----------------------------TGTT--A-CCCCCA
+AAT--GGG---------------------CC-CTTCAGAGCGC-A-ATTCAG--------
+------ATTTA--ATCGAAAC---------------------------------------
+------------------------TCTAATGTGA--CT-CCGGACATCGG-GTGAAAA--
+ACA------------------------------------------------------
+>SolS-Ia_Sl9 (AC188778; nt 69013-69191)
+----ACAAACCT-------GGAT-----TGTAG-TGCACTGGTGGAA-------------
+------GTGTTTC-ACT----GTTAACC-------AGA--GGTCTCAT----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGTGG-ATGAAGAAA-ATCTTGTTG------
+-------------GGAG-----------------------------TGTC--A-CACCCG
+AAC--GGA---------------------CT-CTGCAGTGAGC-G-ATCCAG--------
+------AATTA--GTCGGAGC---------------------------------------
+------------------------TCCAATTCGGC-CT-CCGAACATCGA-TTGGAAA--
+ACC------------------------------------------------------
+>SolS-Ia_Sl7 (AK323489; nt 1554-1732)
+----GACAACAT-------GGAT-----TGTGG-TGCACTGATGGGA-------------
+------GTGTTTC-ACC----CTTAACC-------AGA--GGTCTCGG----------GT
+TCGA----------GT------C-------------------------------------
+----------------------------CTGGGT-ATGGAGAAA-ATTATGTTG------
+-------------GGAG-----------------------------CGCC--A-CCCCCA
+AAT--GGG---------------------CT-CTACAATGTGC-G-ATTCGG--------
+------ATTTA--GTCGGAGC---------------------------------------
+------------------------TTTAACGTTGG-TT-TCGAACATCGA-GTAGGAA--
+AAA------------------------------------------------------
+>SolS-Ia_Sl6 (EF647613; nt 76008-75831)
+----ATCAACAT-------GGGT-----TGTGG-TGCACTAGTGG-A-------------
+------GTGTTTC-ACC----CTTAACC-------AGA--GGTCTCGT----------GT
+TTGA----------GA------C-------------------------------------
+----------------------------CTGGGT-ATGGAGAAA-ATCTTGTTG------
+-------------GGAG-----------------------------TGCC--A-CCACCG
+CAT--GAG---------------------CC-CTGCAGTGCAC-G-GTCTAA--------
+------ATTTG--ATCAGAGC---------------------------------------
+------------------------TCCTATGTGGG-TT-CCGGACACAGG-AGGAGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Sl4 (AC212302; nt 391-211)
+----ACCAACAT-------GGAT-----TGTGG-TGCACTGGTGGGA-------------
+------GTGCTTC-ATC----ATTAACC-------AAA--GGACTCGG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGC-ATGGAGAAA-ATCATGTTG------
+-------------GGAG-----------------------------CGCC--A-TCCTCG
+AAT--TGG---------------------TC-CTGCAATGTGT-A-ATTCAG--------
+------ATTTA--GTCAGAGC---------------------------------------
+------------------------TCTAATGTAGG-CT-CCGGACACCGG-GTAGAAAAA
+CCC------------------------------------------------------
+>SolS-Ia_Sl8 (AC216401; nt 11056-10874)
+----ATCAACAT-------GGGT-----TGTGG-TGCACTGCTGAAA-------------
+------GTGTTTC-TTTCACCCTTAACC-------AAA--GGTCTCGA----------AT
+TCCA----------GC------C-------------------------------------
+----------------------------CTAGAT-ATGGAGAAA-ATTTTGTTG------
+-------------GGAG-----------------------------CGTC--A-TCTTCA
+AAT--GGG---------------------CT-TTGCAGAGCGC-G-ATTCAA--------
+------ATTTA--GTCAGAGC---------------------------------------
+------------------------TCCATTGTGGG-CT-CCGAACACCAG-GTGGGAA--
+ACA------------------------------------------------------
+>SolS-Ia_Sl2 (AC209512; nt 20309-20131)
+----ACTAACAT-------AGAT-----TGTGG-TGCATTGGTGAGA-------------
+------GTGTTTC-ATC----TTTAACC-------AGA--GGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------TTTGGT-ATGGAGAAA-ATCCTGTTG------
+-------------GGAG-----------------------------CGTC--A-CCCCCG
+AAT--GAG---------------------CC-CTGCAATGCGC-G-ATCCCA--------
+------ATTTA--ATCGGAAC---------------------------------------
+------------------------TTCATTGTGGG-CT-CCGAACACCGA-GTGAGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Sl3 (EU180575; nt 21036-21214)
+----ACCAATAT-------GTGT-----CGTGG-TGCACTGGTGGGA-------------
+------GTGCTTC-ATT----CTTAACC-------AGA--GATCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGAT-ATGGAGAAA-ATTCTGTTG------
+-------------GGAG-----------------------------CACC--A-CCACCG
+AAA--GGG---------------------CC-CTGCAGTGCGT-G-ATCCGA--------
+------ATTTA--GTCGAAGC---------------------------------------
+------------------------TCCAATATGAG-CT-CTAAATACGGG-GTGGAAA--
+ACC------------------------------------------------------
+>SolS-Ia_Sl5 (AC211063; nt 84481-84659)
+----ACCAACAT-------GGAT-----TGTGG-TGTACTGATGAGA-------------
+------GTGTTTC-ACC----CTTAATT-------AGA--GGTCTCGG----------GT
+TTGA----------GC------C-------------------------------------
+----------------------------TTGGAT-ATGGAGAAA-ATCCTATTG------
+-------------GGAG-----------------------------CGCC--A-CTCCCG
+AAT--GGA---------------------CC-CTGCAGTGTGC-G-ATTCGG--------
+------ATTTA--GTCGGAGC---------------------------------------
+------------------------TCCAATGTGGG-CT-CTAGACATTGA-ATGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_St9 (AC235638; nt 110081-110259)
+----ACCAACAT-------GAGT-----TGTGG-TGCACTGGTAGGA-------------
+------GTGTTTC-ACC----CTAAATC-------AGA--GGTCTCGA----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATGGAGAAA-ATTATGTTG------
+-------------GGAG-----------------------------CACC--A-CCCCCG
+AAT--GGA---------------------CC-CTGCAGTGCGC-G-ATCTAG--------
+------ATTTA--GTTGGAAC---------------------------------------
+------------------------TCCAATGTGGA-CT-CCGGACACCGG-ATGGAAA--
+ACC------------------------------------------------------
+>SolS-Ia_St10 (AC232012; nt 22174-22352)
+----ACCAACAT-------GGGT-----TGTGG-TGCACTGGTGGGA-------------
+------GTACTTA-TCC----CTTAACC-------AGA--GGTCTCAG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATGGAGAAA-ATCCTGTTG------
+-------------GGAG-----------------------------CACC--A-GCCCCG
+AAA--GGG---------------------CC-CTGCAAAGCGC-G-ATCCAA--------
+------ATTTA--GTCGGAGT---------------------------------------
+------------------------TCCAATGTGGG-CT-CTGGACACCGG-ATGGGAA--
+ATC------------------------------------------------------
+>SolS-Ia_St3 (ER827956; nt 59-237)
+----ACCAACAT-------GGGT-----TGTGG-TGCACTGGTGGGA-------------
+------GTGTTTC-ACC----CTTAACC-------AGA--GGTCTCAG----------AT
+TCGA----------GC------C-------------------------------------
+----------------------------TTGGGT-ATGGAGAAA-ATCTTGTTG------
+-------------GGAG-----------------------------CGCC--A-CCTCCG
+AAT--GGA---------------------CC-CTGCAGAGCGC-G-ATCCAA--------
+------ATTTA--GTCGGAGC---------------------------------------
+------------------------TCCAATGTGGG-CT-CCGAACATCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_St6 (ER824709; nt 186-364)
+----ACCAACAT-------GGGT-----TGTGG-TGCACTGGTGGGA-------------
+------GTGCTTC-ACC----CTTAACC-------AGG--AGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATGGAGAAA-ATCTTGTTG------
+-------------GGAG-----------------------------CGCC--A-CCCTCG
+AAT--GGG---------------------CC-CTGCAAAGCGC-G-ATCCGA--------
+------ATTTA--GTCGAAGC---------------------------------------
+------------------------TCCAATGTGGG-CT-CTGAACATCGA-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_Sl1 (CZ958989; nt 593-415)
+----ACCAACAT-------GGAT-----TCTAA-TGCACTGGTGGGA-------------
+------GTGCTTC-ACC----CTTAACC-------AGA--GGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATGGAGAAA-ATCCTGTTG------
+-------------GGAG-----------------------------GGCC--A-CCTCCA
+AAT--GGG---------------------CC-CTGCAATGCGC-T-ATCCGG--------
+------ATTTA--GTCGGAGC---------------------------------------
+------------------------TCCAATGTGGG-CT-CCGAACACCGG-GTGGAAA--
+ATC------------------------------------------------------
+>SolS-Ia_St8 (AC233618; nt 122784-122606)
+----ACCCACAT-------GGGT-----TGTAG-TGCACTGGTGGGA-------------
+------GTGCTTC-ACT----CTTAACC-------AGA--GGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATGGAGAAA-ATCCTGTTG------
+-------------GTAG-----------------------------TGTC--A-CCCCCG
+AAT--GGG---------------------CC-CTGCAGAGCGC-G-ATCCGG--------
+------ATTTA--GTCGGAGC---------------------------------------
+------------------------TCCAGTGTGGG-CT-CTGGACATCGG-GTGAAAA--
+ACC------------------------------------------------------
+>SolS-Ia_St4 (AC234556; nt 52703-52525)
+----ACCAACAT-------GGGT-----TGTGG-TGCACTGGTGGGA-------------
+------GTTCTTC-ACC----CTTAACT-------AGA--GGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATGGAAAAA-ACCATGTTG------
+-------------GGAG-----------------------------CGCC--A-CCCCCG
+AAA--GGG---------------------CC-CTGCAGAGCGC-G-ATTCGG--------
+------ATTTA--GTCGGAGC---------------------------------------
+------------------------TCCAATGTGGG-CT-CCGGACACCGG-GTGTGAA--
+ACC------------------------------------------------------
+>SolS-Ia_St5 (AC232020; nt 72387-72210)
+----ATCAACAT-------GAGT-----TGTAG-TGCACTAGTGGGA-------------
+------GTGCTTC-ACC----CTTAACC-------AGA--GGTCTTAG----------AT
+TCGA----------GC------C-------------------------------------
+----------------------------CT-GGT-ATGGAGAAA-ATCATGTTG------
+-------------GGAG-----------------------------CGCC--A-CCCCCG
+AAT--GGG---------------------CC-CTGCAGTGCGC-G-ATCCGA--------
+------ATTTA--GTCGAAGC---------------------------------------
+------------------------TCCAATGTGGG-CT-CCGGACACCGG-GTGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_St2 (ER831316; nt 71-249)
+----ACCAACAT-------GGGT-----TGTGG-TACACTGGTGGGA-------------
+------GTGCTTC-ACC----CTTAACC-------AGA--GGTCTCGG----------GT
+TCGA----------GC------G-------------------------------------
+----------------------------CTAGGT-ATGGAGAAA-ATCCTGTTG------
+-------------GGAG-----------------------------CGCC--A-CCCCCG
+AAT--GGG---------------------CC-CTGCAGAGCGC-G-ATCCGG--------
+------ATTTA--GTCGGAGC---------------------------------------
+------------------------TCCAATGTGGG-CT-CCGGACACTGG-ATGGGAA--
+ACC------------------------------------------------------
+>SolS-Ia_St7 (AC218090; nt 15515-15691)
+----ACCAACAT-------GGGT-----TGTGG-TGCACTAGTGAGA-------------
+------GTGCTTC-ACT----CTTAATC-------AGA--GGTCTCGG----------GT
+TCAA----------GC------T-------------------------------------
+----------------------------CTGGGT-ATGGAGAAA-ATCCTGTTG------
+-------------GGAG-----------------------------CGCC--A-CCCCCG
+AAT--GGG---------------------CC-CTGCA-AGCGC-G-ATCCGG--------
+------ATTTA--GTCGGAGC---------------------------------------
+------------------------TCCAATGTGGG-CT-CCGGACACCGG--TGGGAA--
+ACA------------------------------------------------------
+>SolS-Ia_St1 (ER869193; nt 606-428)
+----ACCAACAT-------GAGT-----TGTGG-TGCACTAGTGGGA-------------
+------GTGCTTC-ACC----CTTAACC-------AGA--GGTCTCGG----------GT
+TCGA----------GC------C-------------------------------------
+----------------------------CTGGGT-ATGGAGAAA-ATCCTGTTG------
+-------------GGAG-----------------------------CGCC--A-CCCCCG
+AAT--GGG---------------------CC-CTGCAGTGCGC-G-ATCCGG--------
+------ATTTA--GTCGGAGC---------------------------------------
+------------------------TCCAATGTGGG-CT-CCGGACACCGG-GTGGGAA--
+ACA------------------------------------------------------
